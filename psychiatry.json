@@ -1,0 +1,2001 @@
+[
+  {
+    "question": "Which of the following  is perseveration?",
+    "options": [
+      "binge eating disorder",
+      "Feeling of distress in a patient with schizophrenia",
+      "Characteristic of schizophrenia",
+      "Characteristic of obsessive compulsive disorder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is most common form of acute transient psychotic disorder?",
+    "options": [
+      "Acute polymorphic psychotic disorder without symptoms of schizophrenia",
+      "Acute polymorphic psychotic disorder with symptoms of schizophrenia",
+      "Acute schizophrenia – like psychotic disorder",
+      "Acute transient psychotic disorder, unspecified"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is not risk factors for development of delusional disorders?",
+    "options": [
+      "Early age",
+      "Social Isolation",
+      "Recent immigration",
+      "Sensory deprivation"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is not a type of somatic delusion?",
+    "options": [
+      "Othello syndrome",
+      "Delusional parasitosis",
+      "Bromosis",
+      "Dysmorphic delusion"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following hallucinations is more common in a delirious patient?",
+    "options": [
+      "Visual",
+      "Tactile",
+      "Auditory",
+      "Olfactory"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following defect of conation is seen in?",
+    "options": [
+      "Catatonic schizophrenia",
+      "Disorganized schizophrenia",
+      "Paranoid schizophrenia",
+      "Simple schizophrenia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following neurotransmitter abnormality“Anhedonia” seen in schizophrenia is linked to?",
+    "options": [
+      "Norepinephrine",
+      "Serotonin",
+      "Glutamate",
+      "GABA"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In which of the following genetic disease schizophrenia is a common presentation?",
+    "options": [
+      "DiGeorge syndrome",
+      "Down's syndrome",
+      "Klinefelter's syndrome",
+      "Neurofibromatosis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following antipsychotic drug  is associated with raised QT interval?",
+    "options": [
+      "Risperidone",
+      "Phenobarbitone",
+      "Fluoxetine",
+      "Midazolam"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following disorder is the most commonly resebles  as psychosis resulting due to chronic amphetamine intake?",
+    "options": [
+      "Paranoid schizophrenia",
+      "Mania",
+      "Delirium",
+      "Dissociative disorder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following atypical agent has low risk of weight gain ?",
+    "options": [
+      "Aripiprazole",
+      "Clozapine",
+      "Quetiapine",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is called delusional belief about subjective double?",
+    "options": [
+      "Doppelganger",
+      "Autoscopy",
+      "Delusion of identification",
+      "Depersonalization"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A young patient is admitted to your hospital with acute psychosis. He wakes up and asks for his wife even though she is present in the same room. Upon seeing her, he starts beating her, accusing her of being a nurse, masquerading as his wife. He also says that the nurse was trying to give him the wrong medication in an attempt to harm him. What is your diagnosis?",
+    "options": [
+      "Capgras syndrome",
+      "Fregoli syndrome",
+      "Delusion of subjective doubles",
+      "Othello syndrome"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 26-year old male is brought to casualty emergency service. He is aggressive and violent, requiring the efforts of several staff to restrain him. When questioned, the patient is paranoid. Physical exam shows him to have muscle rigidity and pupils that move up and down rapidly. What neurochemical mechanisms are most likely to account for the patient’s current behaviour?",
+    "options": [
+      "Antagonism of the glutamate receptors",
+      "Reduction in levels of GABA",
+      "Partial agonist of the postsynaptic serotonin receptors",
+      "Antagonism of the locus cerelous pathway and blocking of substance P"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 30-year-old man suspects his wife of having an affair with his friend. He also thinks that other people are making fun of him. His wife and other friends try convincing him, but he is not convinced. Other than this peculiar behaviour for the past 3 months, there is no other odd behaviour. He manages other activities well. What is the diagnosis?",
+    "options": [
+      "Delusional disorder",
+      "Acute transient psychosis",
+      "Paranoid personality disorder",
+      "Schizophrenia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A35-year-old patient presents with mental confusion, visual and auditory hallucinations, perceived changes of body shape, swelling of the tongue and a fear of impending death after he was treated for primary chancre of syphilis with an intramuscular injection. What is the likely diagnosis?",
+    "options": [
+      "Hoigne Syndrome",
+      "Undiagnosed Psychosis",
+      "Jarisch-Herxheimer Reaction",
+      "Adjustment Reaction"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A middle aged man suddenly becomes detached, and starts writing poems and stories, although it couldn’t be understood by anyone because of language and context was also not rational. Which of the following is the most probable diagnosis?",
+    "options": [
+      "Schizophrenia",
+      "Genius writer",
+      "Mania",
+      "Delusional disorder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 22-year-old male patient has been brought to OPD by his family members with history of loosening of clothes at inappropriate places. There are several times when he laughs inappropriately during the interview. His speech is confusing and unpredictably shifts from one topic to another. There is also history of mirror gazing and giggling to self. What is the most likely diagnosis?",
+    "options": [
+      "Hebephrenic Schizophrenia",
+      "Simple Schizophrenia",
+      "Catatonic Schizophrenia",
+      "Paranoid Schizophrenia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 38-year-old patient on haloperidol developed hyperprolactinemia and wishes to change her drug. Which of the following drugs could benefit her the most?",
+    "options": [
+      "Clozapine",
+      "Ouetlapine",
+      "Rlsperidone",
+      "Zonisamide"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A man coining from mountain whose wife died 6 months prior says that his wife appeared to him and asked him to join her. Which of the following disorder is the most likely to be?",
+    "options": [
+      "Normal grief",
+      "Grief psychosis",
+      "Bereavement reaction",
+      "Supernatural phenomenon"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 32-year-old woman is seen in an outpatient psychiatric clinic for the chief complaint of a depressed mood for 4 months. During the interview, she gives very long, complicated explanations and many unnecessary details before finally answering the original questions. Which of the following psychiatric findings best describes this style of train of thought?",
+    "options": [
+      "Circumstantiality",
+      "Loose assosiation",
+      "Neologism",
+      "Flight of ideas"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 22-year-old Babu had fight with his neighbour’s son. Next day going to the bus stop, he felt that 2 uniformed policemen were following him. On reaching home he was frightened and he felt that the neighbours were using radio waves to control his mind. Which of the following is this symptom?",
+    "options": [
+      "Passivity phenomenon",
+      "Delusion persecution",
+      "auditory hallucination",
+      "Thought insertion"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 18-year-old male, history of firm unshakable belief of hands passing through the body & gripping his lungs indicates. Which of the following disorder is most likely to be?",
+    "options": [
+      "Schizophrenia",
+      "Depression",
+      "Somatization",
+      "Asthma"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 25-year-old university student had a fight with the neighbouring boy. On the next day while out, he started feeling that two men in police uniform were observing his movements. When he reached home in the evening he was frightened. He expressed that police were after him and would arrest him. His symptoms represent:",
+    "options": [
+      "Delusion of persecution",
+      "Ideas of reference",
+      "Passivity",
+      "Thought insertion"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 30-year-old man is brought to the clinic in an agitated state. When asked how he is feeling, he replies, “I am wonderful, the most wonderful in the universe. The universal gym is my invention, but Jim is just Dandy…. Dandy was my name of my dad’s friend. A friend in need is a friend indeed. I need a beautiful girl right now to have dinner with… yesterday night I had Mexican dinner. What is this phenomenon known as?",
+    "options": [
+      "flight of ideas",
+      "tangentiality",
+      "loosening of association",
+      "circumstantiality"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is bipolar type II?",
+    "options": [
+      "Hypomania+ major depression",
+      "Repeated episodes of mania",
+      "Mania + hypomania",
+      "Mania + depression"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is recollection of repressed memories with appropriate affective response by?",
+    "options": [
+      "Abreaction",
+      "Hypnosis",
+      "Dissociation of affect",
+      "Free association"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following  is commonly associated with agoraphobia?",
+    "options": [
+      "Panic disorder",
+      "Bipolar disorder",
+      "Schizophrenia",
+      "OCD"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is seen in leaden paralysis?",
+    "options": [
+      "Atypical depression",
+      "lnvolutional melancholia",
+      "Psychotic depression",
+      "Major depression"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the followinf are not neuroanatomical structures concerned with amnestic disorders?",
+    "options": [
+      "Arcuate nucleus",
+      "Hippocampus",
+      "Amygdala",
+      "Mammillary bodies"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following disorder is associated with the learned helplessness theory?",
+    "options": [
+      "Depression",
+      "Mania",
+      "Anxiety",
+      "Phobia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is increased in depression?",
+    "options": [
+      "Cortizol",
+      "Dopamine",
+      "Nor-epinephrin",
+      "Serotonin"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "For which of the following disorder Esketamine, the drug that has been approved by FDA in 2019, has been approved for treatment ?",
+    "options": [
+      "Depression",
+      "Resistant schizophrenia",
+      "Bipolar disorder",
+      "Ketamine dependence"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Feeding and Eating disorders are characterized by a persistent disturbance of eating or eating-related behavior that results in the altered consumption or absorption of food and that significantly impairs physical health or psychosocial functioning. Which is the most common eating disorder?",
+    "options": [
+      "Binge eating disorder",
+      "Bulimia nervosa",
+      "Avoidant restriction food intake disorder",
+      "Anorexia nervosa"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following areas is less likely to play a role in depressive disorder?",
+    "options": [
+      "Corpus callosum",
+      "Hippocampus",
+      "Anterior cingulate cortex",
+      "Amigdala"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following medication is least effective against depression?",
+    "options": [
+      "Valproate",
+      "Lamotrigine",
+      "Lithium",
+      "Aripiprazole"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In which of the following diagnosis the period of normalcy is seen between two psychosis?",
+    "options": [
+      "Manic depressive psychosis",
+      "Schizophrenia",
+      "Alcoholism",
+      "Depression"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following  are not  indications for electroconvulsive therapy?",
+    "options": [
+      "Increased intracranial tension",
+      "Catatonic schizophrenia",
+      "Severe depression",
+      "Neuroleptic malignant syndrome"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 20-year-old male presents to the OPD with decrease sleep, elation and tal1kativeness since 5 days. He also complains of irritability and distractibility. Which of the following is the diagnosis?",
+    "options": [
+      "Hypomania",
+      "Mania",
+      "Anxiety disorder",
+      "Schizophrenia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 35-year-old female presents to the psychiatric OPD with decreased sleep, elation, and talkativeness for 1 month. She also complains of irritability and distractibility. Which of the following  is the diagnosis?",
+    "options": [
+      "Mania",
+      "Delusional disorder",
+      "Depression",
+      "Schizophrenia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 29-year-old patient is brought to the OPD in a state of euphoria. He was smiling and talking softly when he came in, then he was quiet for a while, but then he seemed to be excited and he suddenly started to laugh for no reason. He was diagnosed to have mania. His mood and affect will be, respectively, recorded as:",
+    "options": [
+      "Elevated mood and labile affect",
+      "Elevated mood and energetic affect",
+      "Elevated mood and restless affect",
+      "Elevated mood and excited affect"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 33-year-old man is speaking about his mother's death and laughing. Which of the following condition is the most likely to be?",
+    "options": [
+      "Incongruent affect",
+      "Labile affect",
+      "Affective flattening",
+      "Inappropriate affect"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 31-year-old woman comes to psychiatrist with history of spending a lot of time in washing her hands. She is distressed about it but says that she is not able to stop washing. This has started to affect her social life as well. Which of the following  is the best mode of treatment for her?",
+    "options": [
+      "Exposure and response prevention",
+      "Cognitive beharioval therapy",
+      "Systematic desensitization",
+      "Pharmacological agents"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 34-year-old housewife reports a three-month history of feeling low, lack of interest in activities, lethargy, multiple body-aches, ideas of worthlessness, decreased appetite and disturbed sleep with early morning awakening. Which of the following treatment is most likely to use?",
+    "options": [
+      "Anti-depressants",
+      "Anti-psychotic",
+      "Anxiolytics",
+      "Hypno-sedatives"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A middle aged man presented with pain in back, lack of interest in recreational activities, low mood, lethargy, decreased sleep and appetite for two months. There was no history suggestive of delusions or hallucinations. He did not suffer from any chronic medical illness. There was no family history of psychiatric illness. Routine investigations including hemogram, renal function tests, liver function tests electrocardiogram did not reveal any abnormality. This patient should be treated with",
+    "options": [
+      "Sertraline",
+      "Haloperidol",
+      "Alprazolam",
+      "Olanzapine"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient presented in casualty with a history of sudden palpitation, sensation of impending doom and constriction in his chest. This lasted for about 10-15 minutes after which he became all right. Which the of following disorder is most likely to be?",
+    "options": [
+      "Panic attack",
+      "Personality disorder",
+      "Generalized anxiety disorder",
+      "Phobia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 40-year-old female patient present with history of depressed mood, loss of appetite insomnia and no interest in surroundings for the past 1 yr. These symptoms followed soon after a business loss 1 year back. Which of the following statements is true regarding the management of this patient?",
+    "options": [
+      "Antidepressant treatment based on the side effect profile of the drugs",
+      "SSRI is the most efficacious of the available drugs",
+      "No treatment is necessary as it is due to business loss",
+      "Combination therapy of 2 antidepressant drugs"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 15-year-old boy feels that the dirt has hung onto him whenever he passes through the dirty street. This repetitive thought causes much distress and anxiety. He knows that there is actually no such thing after he has cleaned once but he is not satisfied and is compelled to think so. This has led to social withdrawal. He spends much of his time thinking about the dirt and contamination. This has affected his studies also. The most likely diagnosis is",
+    "options": [
+      "Obsessive compulsive disorder",
+      "Conduct disorder",
+      "Agoraphobia",
+      "Adjustment disorder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 20-year-old man has presented with increased alcohol consumption and sexual indulgence, irritability, lack of sleep, and not feeling fatigued even on prolonged periods of activity. All these changes have been present for 3 weeks. TWhich of the following is most likely to be?",
+    "options": [
+      "Mania",
+      "Schizophrenia",
+      "Alcohol depense",
+      "Impulsive control disorder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 41-year-old patient comes in stuporous condition. Patient's parents give history of patientbeing continually sad and suicidal attempts and not eating and sleeping for most of the time. Which of the following is the treatment?",
+    "options": [
+      "ECT",
+      "Antidepressant",
+      "Antipsychotic",
+      "Sedative"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following sexual identity does not depend on?",
+    "options": [
+      "Upbringing",
+      "Secondary sexual characters",
+      "Gonads",
+      "Chromosomal pattern"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a feature of male hypoactive sexual desire disorder?",
+    "options": [
+      "Symptoms for a minimum duration of 6 months",
+      "Symptoms do not cause distress to the patient",
+      "Severe relationship problem exists",
+      "Presence of a nonsexual mental disorder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which among the following is not a characteristic of Post traumatic stress Disorder (PTSD)?",
+    "options": [
+      "Doesn't develop after 6 months of stress",
+      "Insomnia and hypervigilance",
+      "Severe traumatic injury",
+      "Patient re-experience trauma in the form of flash backs"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following features is not characteristic of Post-traumatic stress disorder?",
+    "options": [
+      "Delusion",
+      "Night mares",
+      "Avoidance",
+      "Flashbacks"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is considered as an anxiolytic substance?",
+    "options": [
+      "Neuropeptide",
+      "Cholecystokinin",
+      "Caffeine",
+      "Carbondioxide"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "To which of the following domestic squalor is related?",
+    "options": [
+      "Hoarding disorder",
+      "Body dysmorphic disorder",
+      "Somatoform disorder",
+      "Olfactory reference syndrome"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is things that a person says or does to disclose himself or herself as having the status of boy or man, girl or woman?",
+    "options": [
+      "Gender role",
+      "Sexual behavior",
+      "Sexual orientation",
+      "Gender identity"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is called n individual's sense of maleness or femaleness?",
+    "options": [
+      "Gender identity",
+      "Sexual identity",
+      "Gender role",
+      "Sexual behaviour"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following drugs is FDA approved for the treatment of female hypoactive sexual desire disorder?",
+    "options": [
+      "Flibanserin",
+      "Fluoxetin",
+      "Sildenafil",
+      "Flun itrazepam"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following are not criteria for substance use disorder?",
+    "options": [
+      "Usage of illegal drugs",
+      "Withdrawal symptoms on abstinence",
+      "Persistent craving to take the drug",
+      "Tolerance towards the drug"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The most common cause of erectile dysfunction in middle-aged men is",
+    "options": [
+      "Psychogenic",
+      "Vasculogenic",
+      "Diabetes mellitus",
+      "Hypothyroidism"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Parasomnias are disorders of partial arousal. In general, the parasomnias are a diverse collection of sleep disorders characterized by physiologic or behavioral phenomena that occur during or are potentiated by sleep. Which of the following conditions is not a parasomnia?",
+    "options": [
+      "Narcolepsy",
+      "Nocturnal enuresis",
+      "Somnambulism",
+      "Somniloquy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 40-year-old patient diagnosed with depression, on Phenelzine, consumed red wine and came to the emergency department with headache, nausea, vomiting and diaphoresis. On examination: BP- 1910/120.",
+    "options": [
+      "He is suffering from Serotonin syndrome",
+      "Should be treated with Phentolamine",
+      "The condition is less common with Selegilline.",
+      "Tyramine is involved the pathogenesis of the condition"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "After use of some drug, a person develops episodes of rage in which he runs about and indiscriminately injures a person who is encountered in way. He is probably addict of:",
+    "options": [
+      "Cannabis",
+      "Alcohol",
+      "Opium",
+      "Cocaine"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Mr. Sharma, a 50 years old married male had come to OPD. He had a history of consuming alcohol for 20years and for past two years consuming alcohol in dependence pattern. He wishes to quit alcohol now in view of his daughter's marriage. The following can act as an anticraving agent for him except:",
+    "options": [
+      "Lorazepam",
+      "Naltrexone",
+      "Topiramate",
+      "Acamprosate"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Mr. Damodhar had a history of consuming alcohol for 15 years and for past two years consuming alcohol in dependence pattern. He consumed all varieties of alcohol about 360ml/day. The last drink was a week ago with 360ml of whiskey. At the time of admission, he was not oriented to time, place, and person, very restless, agitated, talking irrelevantly, had palpitation, sweating, tremors, expressing ____ which is characteristic in this case.",
+    "options": [
+      "Hallucination",
+      "Illusion",
+      "Delusion",
+      "All of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A middle-aged man complains of lack of sleep during the night time. The duration of the time he is truly asleep or awake can be ascertained by which of the following?",
+    "options": [
+      "Actigraphy",
+      "Kymograph",
+      "Barograph",
+      "Plethysmography"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 45-year-old female patient reports that she has lost her appetite and interest in her typical hobbies during the last three months, and that she frequently feels that life is not worth living. In this patient, the percentage of REM sleep, delta sleep, and REM latency are all more likely to be",
+    "options": [
+      "increase,decrease,decrease",
+      "increase, decrease, increase",
+      "decrease, stay the same, increase",
+      "decrease, decrease, increase"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Bedwetting >5 nights per week and episodes of daytime urgency in an 11- year-old girl.HPI: Mom has tried limiting fluid intake after 5 p.m. and placing her on the toilet at night. She's never been dry for more than six months. She is quite humiliated. FHX: My older sister was prone to bedwetting. Which of the following is the most effective treatment for nocturnal enuresis in children?",
+    "options": [
+      "Desmopressin",
+      "lmipramine",
+      "Amitriptyline",
+      "Benzodiazepines"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The World Health Organization's AUDIT is the most widely tested instrument for screening in primary health care. Alongside with the companion publication on the AUDIT, WHO has also produced a manual to aid primary health care workers in administering brief interventions to persons whose consumption has become hazardous or harmful to their health. Audit test is used for which of the following?",
+    "options": [
+      "Alcohol use disorder",
+      "Opioid use disorder",
+      "Sexual abuse",
+      "Cannabis abuse"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "54-year-old lady with cirrhosis and an alcohol use disorder goes to the emergency room with a change in mental status. She moves slowly during the assessment, is disoriented to time and place, and has asterixis. The ammonia level is high. On an electroencephalogram (EEG), which of the following findings can be seen?",
+    "options": [
+      "Increased occipital alpha activity",
+      "Periodic sharp-wave complexes",
+      "3 Hz spike-and-wave complexes",
+      "Triphasic waves"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A married  25-year-old woman was brought to opd, reporting sleepwalking events two to three times every night that had recurred since childhood. Most events were characterized by the patient running out of bed and screaming \"Help!\" or \"I am going to die!\" The patient would at times fall off the bed, hitting her head or limbs. These episodes were described by the patient's husband. Benzodiazepines are used in treatment of somnambulism. Which of the following is the most likely to be?",
+    "options": [
+      "Decrease the duration of NREM Ill and IV",
+      "Increase the duration of REM sleep",
+      "Increase the duration of NREM Ill and IV",
+      "Decrease the duration of REM sleep"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "One year previously, Mrs. T's physician prescribed her methylphenidate for narcolepsy due to daily irresistible sleep attacks and episodes of a sudden loss of muscle tone when she became emotionally excited. After taking the medication, Mrs. T became asymptomatic and was able to work effectively and have an active social life with family and friends. Central deficiency of which of the following neurotransmitters is thought to underlie narcolepsy?",
+    "options": [
+      "Hypocretin",
+      "Dopamine",
+      "Norepinephrine",
+      "Acetylcholine"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 50-year-old lady while driving a car meets with an accident. She was admitted in an ICU for 6 months. After being discharged she often gets up in night and feels terrified. She is afraid to sit in a car again. Which of the following is most ikely to be?T",
+    "options": [
+      "Post traumatic stress disorder",
+      "Phobia",
+      "Conversion disorder",
+      "Anxiety disorder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "After repeated exposure to a nurse in a white coat followed by an injection, a child learns to cover and cry in response to anyone approaching in a white coat. Which of the following can be explained as an example of  child’s behaviour?",
+    "options": [
+      "Classical conditioning",
+      "Negative reinforcement",
+      "positive reinforcement",
+      "observational learning"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following are not features of personality disorders?",
+    "options": [
+      "Starts in early childhood",
+      "They are not due to disease",
+      "They are ego-syntonic",
+      "They are fixed and inflexible"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the average number of sessions in cognitive behavioral therapy?",
+    "options": [
+      "12 to 20",
+      "20 to 30",
+      "30 to 35",
+      "35 to 45"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is true regarding dissociative fugue?",
+    "options": [
+      "The fugue could be a purposeful journey away from home.",
+      "It starts in adolescence.",
+      "All affected patients develop depersonalization during fugue.",
+      "It is more common in women."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is not classified under dissociative disorders as per DSM-5?",
+    "options": [
+      "Conversion disorder",
+      "Multiple identity disorder",
+      "Derealization disorder",
+      "Depersonalisation disorder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a negative dissociation symptom?",
+    "options": [
+      "Amnesia",
+      "Fragmentation of identity",
+      "Depersonalization",
+      "DereaIization"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following are not true statements about dissociative disorders?",
+    "options": [
+      "Involve a conscious defence mechanism",
+      "Often preceded by psychological trauma",
+      "Associated with disruption of neurocognitive functions",
+      "Experienced as inability to access information that no m1ally are readily amenable to access"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is most important to ask about during the initial interview to assess suicidal risk?",
+    "options": [
+      "History of prior suicide attempts",
+      "History of suicide attempts in the family",
+      "History of substance use disorder",
+      "History of having guns at home"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a neurological illness that mimics schizophrenic speech disturbance?",
+    "options": [
+      "Wernicke’s aphasia",
+      "Alexia with agraphia",
+      "Broca’s aphasia",
+      "Transcortical aphasia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Clinical reports suggest that subcortical syndromes involve less severe intellectual and memory dysfunction and lack the aphasia, agnosia, and apraxia typical of the cortical dementias . Which of the following are not causes of subcortical dementia?",
+    "options": [
+      "Alzheimer's disease",
+      "Parkinson's disease",
+      "Supranuclear palsy",
+      "HIV associated dementia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following diagnostic technique is the most appropriate to identify anatomical changes in the brain of an 80-year-old female patient with Alzheimer disease?",
+    "options": [
+      "CT",
+      "PET",
+      "EEG",
+      "Evoked EEG"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the most appropriate technique differentiate delirium from dementia in a 75-year-old male patient?",
+    "options": [
+      "EEG",
+      "PET",
+      "CT",
+      "evoked EEG"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is suggestive of an organic cause of behavioral symptoms?",
+    "options": [
+      "Prominent visual hallucinations",
+      "Auditory hallucinations",
+      "Delusion of guilt",
+      "Formal thought disorder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is in Alzheimer disease patients, the major effect on neurotransmitter systems of tacrine, donepezil, rivastigmine, and galantamine to?",
+    "options": [
+      "increase Ach availability",
+      "decrease dopamine availability",
+      "increase dopamine availability",
+      "decrease Ach availability"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Geeta is preoccupied about her ear size and repeatedly looks into the mirror. Which of the following disorder is she possibly suffering from?",
+    "options": [
+      "Dysmorphophobia",
+      "Obsessive compulsive disorder",
+      "Normal behaviour",
+      "Hypochondriacal delusion"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 60-year man had undergone cardiac bypass surgery 2 days back. Now he stated forgetting things and was not able to recall names and phone number of his relatives. Which of the following  is the probable diagnosis?",
+    "options": [
+      "Cognitive dysfunction",
+      "Post traumatic psychosis",
+      "Depression",
+      "Alzheimer’s disease"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 25-year-old male is described as emotionally cold, self-absorbed and pre-occupied with fantasies. He often remains alone, detached from social relationships and prefers solitary activities. This is diagnosed as which type of personality disorder?",
+    "options": [
+      "Schizoid",
+      "Obsessive compulsive",
+      "Paranoid",
+      "Schizotypal"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 40-year-old patient presented short lasting episodic behavioural change with agitation & dream like state with thrashing movement of his limbs. He does not recall these episodes & has not apparent precipitating factor. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Temporal lobe epilepsy",
+      "Schizophrenia",
+      "Panic episodes",
+      "Dissociative disorder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Mohan, a 7-year old boy, does not like to eat green vegetables. In order to encourage him to eat green vegetables, his mother would offer him a piece of his favourite chocolate, every time he would finish his green vegetables. Such a type of behaviour change is based on which of the following paradigms?",
+    "options": [
+      "Operant conditioning",
+      "Classical conditioning",
+      "Social learning",
+      "Coping strategy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 60-year-old man had undergone a cardiac bypass surgery 2 days back. Now he started forgetting things and was not able to recall names and phone numbers of his relatives. Which of the following is the probable diagnosis?",
+    "options": [
+      "Cognitive dysfunction",
+      "Post-traumatic psychosis",
+      "Depression",
+      "Alzheimer's disease"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "70-year-old man presents with h/o prosopagnosia, loss of memory, 3rd person hallucinations since 1 month. On examination deep tendon reflexes are increased, mini-mental examination score is 20/30. What is most likely diagnosis?",
+    "options": [
+      "Alzheimer's disease",
+      "Schizophrenia",
+      "Dissociative amnesia",
+      "Psychotic disorder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Chandu, 32-year-old presents with abdominal pain and vomiting. He also complains of some psychiatric symptoms and visual hallucinations. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Intermittent porphyria",
+      "Hypothyroidism",
+      "Hyperthyroidism",
+      "Hysteria"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 55-year-old man, who had been hospitalized for an acute pneumonia 3 days previously, starts to shout in the bed, stating that, “someone has come to room to kill him.” He then gets out of bed and begins pulling out his IV line. On examination, he is not oriented to time or place. Which of the following diagnoses best fits this patient’s clinical picture?",
+    "options": [
+      "Delirium",
+      "Fugue state",
+      "Dementia",
+      "Agoraphobia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Two brothers have been fighting. The mother says to one of her sons, “Go to your room until you apologize to your brother for hitting him!” The mother’s words are an example of the application of",
+    "options": [
+      "negative reinforcement",
+      "punishment",
+      "Positive reinforcement",
+      "Classical conditioning"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 64-year-old man is brought to see his physician by his wife. She notes that over the past year he has experienced a slow, stepwise decline in his cognitive functioning. One year ago she felt he was almost normal, but now he gets lost around the house and can’t remember simple directions. The patient insists that he feels fine, though he is depressed about his loss of memory. He is eating and sleeping well. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Multi-infarct dementia",
+      "Mood disorder secondary to a general medical condition",
+      "Delirium",
+      "Major depression"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 25-year-old man is seeing a male psychologist for dynamic psychotherapy. He feels very angry with the male psychologist as he finds that the male psychologist is exerting his authority like his abusive father. Which of the following statement is known as the phenomenon?",
+    "options": [
+      "Transference",
+      "Boundary violation",
+      "Countertransference",
+      "Acting out"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following  does not include healthy thinking?",
+    "options": [
+      "Clarity",
+      "Constancy",
+      "Organization",
+      "Continuity"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is known as perception that occurs when a sensory stimulus is present but is incorrectly perceived and misinterpreted?",
+    "options": [
+      "Illusion",
+      "Hallucination",
+      "Delusion",
+      "Delirium"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In which of the following disorder delusion of doubles is seen?",
+    "options": [
+      "Capgras syndrome",
+      "Schizoaffective disorder",
+      "Delusional disorder",
+      "Paranoid Schizophrenia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In which of the following dopaminergic system schizophrenia is caused by over?",
+    "options": [
+      "Mesolimbic/Mesocortical pathway",
+      "Tuberoinfundibular pathway",
+      "Nigrostriata I pathway",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following disorder are related expressed emotions to?",
+    "options": [
+      "Schizophrenia",
+      "Depression",
+      "Mania",
+      "Somatoform disorder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is not included in delusional misidentification syndromes?",
+    "options": [
+      "Syndrome of objective doubles",
+      "Fregoli syndrome",
+      "Syndrome of intermetamorphosis",
+      "Capgras syndrome"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Schizophrenia affects a 20-year-old man. His monozygotic twin brother is his only sibling. What is the probability {in percent) that his brother would acquire schizophrenia based on the findings of genetic studies?",
+    "options": [
+      "0.47",
+      "0.5",
+      "0.55",
+      "0.6"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the least likely good prognostic factor in  a patient with schizophrenia?",
+    "options": [
+      "Premorbid personality issues",
+      "Acute onset",
+      "Female gender",
+      "History of mood disorder in the family"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the characteristic clinical manifestation of schizophrenia?",
+    "options": [
+      "Auditory hallucinations",
+      "Anxiety",
+      "Confusion",
+      "Visual hallucination"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following must include in crime: a) An illegal act b) A guilty mind c) A motive d) A plan of action?",
+    "options": [
+      "a,b",
+      "a, b, d",
+      "a, b, c, d",
+      "a, c, d"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Under the Mental Health Care Act 2017, a patient has, the right to choose his caretaker and future course of action in treatment. Which of the following  is known as this provision?",
+    "options": [
+      "Advance directive",
+      "MentaI will",
+      "Future directive",
+      "Treatment directive"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following disorder delusions are not likely to be seen in?",
+    "options": [
+      "Conversion disorder",
+      "Depression with psychotic symptoms",
+      "Schizophrenia",
+      "Dementia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 60-year male is brought by his wife. He thinks that he had committed sins all through his life. He is very much depressed and has considered committing suicide but has not through hot do go about it. He had also attached sessions with a spiritual guru. He is not convinced by his wife that he has leaded a pious life. He does not want to hear anything on the contrary. How will you treat him?",
+    "options": [
+      "Antipsychotic + Antidepressant",
+      "Antidepressant with cognitive behavioural therapy",
+      "Guidance & re counselling with guru",
+      "Anti-depressant alone"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 22-year-old man is brought to the emergency department for evaluation. He appears confused but gives his name correctly. When asked his occupation, he says, “Jesus was a carpenter. I am the right hand of God. I don’t offend anyone. Sachin tendulkar plays square cut short nicely. Have u heard of the songs of new movie, race 3,”. What is this phenomenon known as?",
+    "options": [
+      "Loosening of association",
+      "Tangentiality",
+      "circumstantiality",
+      "Flight of ideas"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "An 18-year-old man is seen by a psychiatrist in the emergency room. During the history, the patient is asked to describe his mood. He answers the following, “My mood is felicitating, I am up and down.” The patient is exhibiting which of the following thought disorders?",
+    "options": [
+      "Tangentiality",
+      "Thought blocking",
+      "Clang association",
+      "Neologism"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 18-year-old girl feels very depressed as her father died one month back. She feels moody and won't join with others and she thinks about joining her father. Which of the following is the most likely to be?",
+    "options": [
+      "Grief",
+      "Post traumatic stress disorder",
+      "Depression",
+      "Bipolar disorder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 41-year-old patient complains of tingling sensation when flashed with lights. Which of the following  is known as  this phenomenon?",
+    "options": [
+      "Reflex hallucination",
+      "Functional hallucination",
+      "Panoramic hallucination",
+      "Pseudo hallucination"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "An elderly house wife lost her husband who died suddenly of Myocardial infarction couple of years ago. They had been staying alone for almost a decade with infrequent visits from her son and grandchildren. About a week after the death she heard his voice clearly talking to her as he would in a routine manner from the next room. She went to check but saw nothing. Subsequently she often heard his voice conversing with her and she would also discuss her daily matters with him. This however, provoked anxiety and sadness of mood when she was preoccupied with his thought. Which of the following drugs should  she be treated with?",
+    "options": [
+      "Clomipramine",
+      "Alprazolam",
+      "Electroconvulsive therapy",
+      "Haloperidol"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Blood sample of a 45-year-old male shown increased levels of homovanillic acid. Which of the following this patient is most likely suffering from?",
+    "options": [
+      "Schizophrenia",
+      "Dementia",
+      "Depression",
+      "Parkinson's disease"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 23-year-old engineering student is brought by his family to the hospital with history of gradual onset of suspiciousness, muttering and smiling without clear reason, decreased socialization, violent outbursts, and lack of interest in studies for 8 months. Mental status examination revealed a blunt affect, thought broadcast, a relatively preserved cognition, impaired judgment and insight. Which of the following is he the most likely to be suffering from?",
+    "options": [
+      "Schizophrenia",
+      "Depression",
+      "Delusional disorder",
+      "Anxiety disorder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 20-year-old patient of schizophrenia on neuroleptics, his psychotic symptoms get relieved but developed sadness, talks less to others, remain on bed. Which of the following are not causes?",
+    "options": [
+      "He is reacting to external stimuli",
+      "Major depression",
+      "Negative symptoms are still persisting",
+      "Parkinsonism"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 30-year-old man since 2 months’ suspects that his wife is having an affair with his boss. He thinks his friend is also involved from abroad and is providing technological support. He thinks people talk ill about him. His friends tried to convince him but he is not convinced at all. Otherwise he is normal, he doesn’t have any thought disorder or any other inappropriate behaviour. What is the most likely diagnosis?",
+    "options": [
+      "Persistent delusion disorder",
+      "Schizophrenia",
+      "Acute and Transient psychosis",
+      "Paranoid Personality disorder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 20-year-old boy c/o hearing of voices, aggressive behaviour since 2 days. He has fever since 2 days. When asked, his family said he has been muttering to self and gesticulating. There is no h/o of psychiatric illness. Which og the following is the most likely diagnosis? here is:",
+    "options": [
+      "Acute psychosis",
+      "Dementia",
+      "Delirium",
+      "Delusional disorder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 28-year-old female presents with complains of reduced sleep with disorganized behaviour since 9 months. She feels there is a camera fixed behind her head which always follows her. Which of the following is likely diagnosis?",
+    "options": [
+      "Paranoid schizophrenia",
+      "Psychotic depression",
+      "Delusional disorder",
+      "Insomnia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 16-year-old boy does not attend school because of the fear of being harmed by school mates. He thinks that his classmates laugh at and talk about him. He is even scared of going out to the market. Which of the following is he the most likely suffering from?",
+    "options": [
+      "Schizophrenia",
+      "Manic Depressive Psychosis",
+      "Adjustment reaction",
+      "Anxiety neurosis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a component of Beck's triad of depression?",
+    "options": [
+      "Worthlessness",
+      "Anhedonia",
+      "Low  mood",
+      "Fatigability"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following are known as chronic and milder features of bipolar disorder that are seen for over 2-3 years of time?",
+    "options": [
+      "Cyclothymia",
+      "Bipolar II",
+      "Bipolar I",
+      "Dysthymia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following steep changes occur in depression?",
+    "options": [
+      "Deficits of slow-wave sleep",
+      "An increase in total sleep time",
+      "Increased REM latency",
+      "Decreased rapid eye movement"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is useful in graded exposure?",
+    "options": [
+      "Phobia",
+      "Schizophrenia",
+      "Suicidal patients",
+      "Schizoaffective disorder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is not side effects occur due to 02 receptor I blockade?",
+    "options": [
+      "Hypotension",
+      "Hyperprolactinemia",
+      "Affective flattening",
+      "Rigidity in neuroleptic malignant syndrome"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is an advantage of Transcranial Magnetic Stimulation (TMS) over Electroconvulsive Therapy (ECT)?",
+    "options": [
+      "It enables focal stimulation of cerebral cortex",
+      "shorter treatment course",
+      "It induces seizure",
+      "It is more effective tnan ECT"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following side effects of Electro convulsive I Therapy (ECT) stays even after the treatment course ends?",
+    "options": [
+      "Decreased retrograde memory",
+      "Errors in visual-spatial function",
+      "Diminished processing speed",
+      "Decreased anterograde memory"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which statement is true about the MRI changes seen in depression?",
+    "options": [
+      "All of the above",
+      "Reduction in volume of amygdala cortex and hippocampus",
+      "Hyperactivity of amygdale during emotional tasks",
+      "Reduction in volume of prefrontal"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following disorder anniversary reaction is associated with?",
+    "options": [
+      "Grief disorder",
+      "Acute stress reaction",
+      "Adjustment reaction",
+      "Post traumatic stress disorder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is correct sequence of normal sexual response cycle?",
+    "options": [
+      "Desire - Excitement - Orgasm - Resolution",
+      "Desire - Excitement - Resolution - Orgasm",
+      "Excitement - Desire - Resolution - Orgasm",
+      "Excitement - Desire - Orgasm -  Resolution"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is not characterized by binge-eating disorder?",
+    "options": [
+      "Compensatory Behaviour",
+      "Eating much more rapidly than normal",
+      "Eating large amounts of food when not feeling physically hungry",
+      "Eating alone"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is more commonly associated with anorexia nervosa?",
+    "options": [
+      "Depression",
+      "Social phobia",
+      "Obsessive compulsive disorder",
+      "Delusional disorder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following favours substance-induced psychotic disorder?",
+    "options": [
+      "Symptoms do not persist long after intoxicated/withdrawal state",
+      "History of recurrent primary psychotic disorder",
+      "The patient recognizes that the hallucinations are the result of substance or medication use",
+      "Symptoms precede substance use"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 67-year-old lady is brought in by her 6 children saying that she has gone senile. Six months after her husband’s death she has become more religious, spiritual and gives lot of money in donation. She is occupied in too many activities and sleeps less. She now believes that she has a goal to change the society. She does not like being brought to the hospital and is argumentative on being questioned on her doings. Which of the following is most likely to be?",
+    "options": [
+      "Acute manic excitement",
+      "Delusion",
+      "Schizophrenia",
+      "Depression"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Rani was 9 months old when his pediatrician referred him to a gastroenterologist,and by his gastroenterologist for psychiatric evaluation due repeated involuntary regurgitation of food. Rani was born full term and had developed typically until 6 weeks of age when she began to regurgitate large amounts of milk just after feedings. Which of the following disorder is it associated with?",
+    "options": [
+      "Rumination disorder",
+      "Binge eating disorder",
+      "Bulimia nervosa",
+      "Anorexia nervosa"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 17-year-old female is suffering from insomnia from last 6 months. She also informs about her changed eating habit.She eats alot of food even after eating her evening meals and also wakes up frequently at night to eat again . Due to such behaviour she usually skips herbreakfast. She doesn't seem much concerned about her appearance and weight gain. Which of the following disorder is the most likely to be?",
+    "options": [
+      "Night eating syndrome",
+      "Bulimia nervosa",
+      "Anorexia nervosa",
+      "Binge eating disorder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 42-year-old male with a past history of a manic episode presents with an illness of 1-month duration characterized by depressed mood, anhedonia and profound psychomotor retardation. Which of the following is the most appropriate management strategy of treatment?",
+    "options": [
+      "Antidepressants and mood stabilizers",
+      "Antipsychotics and antidepressants",
+      "Antipsychotics and mood stabilizers",
+      "Antidepressants and benzodiazepines"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 85-year-old man is brought to the psychiatrist by his wife. She states that for the last 4 months, since the death of his son, the patient has been unable to sleep, has lost 2.5 kgs, has crying spells, and in the last week has been starting to talk about suicide. She notes that he has numerous other medical problems, including prostatic hypertrophy, hypertension, insulin-dependent diabetes, and a history of myocardial infarction. Which of the following medications is  the most appropriate treatment for this patient?",
+    "options": [
+      "Sertraline",
+      "Clonazepam",
+      "Doxepin",
+      "Amitriptyline"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 17-year-old girl was brought to the psychiatrist by her mother with history that she was repeatedly found vomiting in the bathroom after taking meals, and that her meal size was extremely small.On examination the BMI of patient was 15 kg/m2 and her knuckles showed callous formation. Which of the following  is the most likely to be?",
+    "options": [
+      "Anorexia nervosa, binge-purge pattern",
+      "Anorexia nervosa, restrictive pattern",
+      "Bulimia nervosa",
+      "Binge eating disorder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 25-year-old female came with complaints of gradual loss of weight,recurrent episodes of vomiting, from a period of two years, menstrual irregularities from 1 year and amenorrhea since 6 months, with a probable precipitating factor being husband's critical comment on her weight. Which of the following laboratory or clinical abnormalities can be found in patients with anorexia nervosa?",
+    "options": [
+      "All the above",
+      "High serum cholesterol",
+      "Mild hypothyroidism",
+      "ST segment and T-wave changes in ECG"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "An elderly gentleman develops severe depression with symptoms of weight loss, early morning awakening, severe anhedonia. Which of the following condition is the most likely to be?",
+    "options": [
+      "lnvolutional melancholia",
+      "Late onset melancholia",
+      "Pseudo-dementia",
+      "Atypical depression"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 25-year-old female presents with 2 year history of repetitive, irresistible thoughts of contamination with dirt associated with repetitive hand washing. She reports these thoughts to be her own and distressing; but is not able to overcome them along with medication. Which of the following therapie is she the most likely to benefit from?",
+    "options": [
+      "Exposure and response prevention",
+      "Systematic desensitization",
+      "Assertiveness training",
+      "Sensate focusing"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Three years back a woman suffered during an earthquake and she was successfully saved. After recovery she has nightmares about the episode and she also gets up in the night and feels terrified. Which of the following is the most probable diagnosis?",
+    "options": [
+      "Post-traumatic stress disorder",
+      "Major depression",
+      "Mania",
+      "Schizophrenia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A middle aged person reported to Psychiatric OPD with the complaints of fear of leaving home, fear of travelling alone and fear of being in a crowd. He develops marked anxiety with palpitations and sweating if he is in these situations. He often avoids public transport to go his place of work. His most likely diagnosis is",
+    "options": [
+      "Agoraphobia",
+      "Schizophrenia",
+      "Personality disorder",
+      "Generalized anxiety disorder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "16-year-old senior has shouted at you for some incomplete work in ward. Later, that evening he has invited you to watch a  movie and gave you a party. This type of Ego's defense mechanism called \"Undoing\" is typically seen in:",
+    "options": [
+      "Obsessive compulsive neurosis",
+      "Schizophrenia",
+      "Depression",
+      "Hyseria"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is an excess desire for sexual intercourse in females?",
+    "options": [
+      "Nymphomania",
+      "Satyriasis",
+      "Frotteuism",
+      "Masochism"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which among the following is the most common substance abused in India?",
+    "options": [
+      "Alcohol",
+      "Cannabis",
+      "Heroin",
+      "Cocaine"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In which of the following disorder is erotomania seen in?",
+    "options": [
+      "Schizophrenia",
+      "Mania",
+      "Neurosis",
+      "Obsessive compulsive disorder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following antidepressant is the most likely to cause persistent erections (priapism) in a 40-year-old male patient?",
+    "options": [
+      "Trazodone",
+      "Tranylcypromine",
+      "Venlafaxine",
+      "Doxepin"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Somatic symptoms may or may not be associated with another medical condition. The diagnoses of somatic symptom disorder and a concurrent medical illness are not mutually exclusive, and these frequently occur together. Which of the following is NOT a somatic symptom:",
+    "options": [
+      "Anhedonia",
+      "Constipation",
+      "Impotence",
+      "Numbness"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is drug of choice for premenstrual Dysphoric Disorder?",
+    "options": [
+      "SSRls",
+      "TCAs",
+      "Progesterone",
+      "Benzodiazepines"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following medicines are associated with side effect of sexual dysfunction?",
+    "options": [
+      "Fluoxetine",
+      "Mirtazapine",
+      "Bupropion"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is associated with alcoholic paranoia ?",
+    "options": [
+      "Clozapine",
+      "Olanzapine",
+      "Risperidone",
+      "Haloperidol"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Sleepwalking, sleep terrors, and nightmares are examples of parasomnias, which are aberrant episodic experi,ences that occur during sleep and are mostly related to the child's development in childhood but are predominantly psychogenic in adulthood. Parasomnias are linked to which of the following medications?",
+    "options": [
+      "Zolpidem",
+      "Doxepin",
+      "Quetiapine",
+      "Fluoxetine"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Insomnia is a sleep disorder  characterised by insufficient quantity and/or quality of sleep over a long period of time. The most common complaint among insomniacs is difficulty falling asleep, followed by difficulties staying asleep and early ultimate wakening. Patients usually complain about a mixture of these issues. Which of the following is the best first-line therapy for primary insomnia?",
+    "options": [
+      "Education on sleep hygiene",
+      "Short-term zolpidem prescription",
+      "Polysomnography",
+      "Trazodone prescription"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Conditions that may predispose to, or aggravate, withdrawal symptoms include fatigue, malnutrition, physical illness, and depression. Mild symptoms usually show up as early as 6 hours after you put down your glass in Alcohol withdrawal. Which of the following is the first symptom to appear in alcohol withdrawal?",
+    "options": [
+      "Tremors",
+      "Sleep disturbance",
+      "Visual hallucinations",
+      "Delirium"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is not used in delirium?",
+    "options": [
+      "Lithium",
+      "Haloperidol",
+      "Diazepam",
+      "Olanzapine"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A father calls the paediatrician because his 7-year-old son began wetting the bed days after the birth of his new born sister. Which of the following best describes the reappearance of bed wetting?",
+    "options": [
+      "Regression",
+      "Repression",
+      "Projection",
+      "Identification"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 45-year-old patient taking 120 ml alcohol everyday since last 12 years is brought to the hospital by his wife and is diagnosed to have alcohol dependence syndrome. Which of the following drug should be avoided in the management?",
+    "options": [
+      "Disulfiram",
+      "Phenytoin",
+      "Naltrexone",
+      "Acamprosate"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 30-year-old male living in a hostel for homeless people with alcohol problems asked staff for his usual drug. He had a 10-year history of extreme alcohol related problems including withdrawal symptoms of morning tremulousness, sweating, nausea and vomiting, but not alcohol-induced seizures. What is the drug of choice for his problem?",
+    "options": [
+      "Chlordiazepoxide",
+      "Haloperidol",
+      "Naltrexone",
+      "Disulfiram"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 45-year-old  Dharu Bai was brought by his wife and seen at the outpatient addiction clinic on Jan 1,2021, during which he was observed to have tremors. His last drink was 24 hours prior to that visit. On Jan 2, the patient presented to the emergency room with coarse tremors, complaints of visual hallucinations, an unsteady gait and disorientation.Which of the following is thiamine dose in his condition about?",
+    "options": [
+      "250 mg per oral/Parenteral daily for first 3-5 days",
+      "100-200 mg per oral/Parenteral daily",
+      "400 mg per oral/Parenteral daily",
+      "500 mg per oral/Parenteral daily"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Erectile dysfunction is present in a 30- year-old man who comes to OPD. The standard screening assessment is unremarkable. The following should be the next step in the evaluation/management process:",
+    "options": [
+      "Oral sildenafil titrate trial",
+      "Cavernosometry",
+      "Doppler study",
+      "Neurological testing"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "One year previously, Mrs. T's physician prescribed her methylphenidate for narcolepsy due to daily irresistible sleep attacks and episodes of a sudden loss of muscle tone when she became emotionally excited. After taking the medication, Mrs. T became asymptomatic and was able to work effectively and have an active social life with family and friends. Which of the following can not be seen in Mrs. T?",
+    "options": [
+      "Catalepsy",
+      "Disorder of REM sleep regulation",
+      "Hypnagogic hallucination",
+      "Hypnopompic hallucinations"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 25-year-old patient present to the emergency department with self-harm and indicates suicidal intent. Which of the following conditions does not warrant an immediate specialist assessment?",
+    "options": [
+      "Acute alcohol intoxication",
+      "Formal thought disorder",
+      "Chronic severe physical illness",
+      "Social isolation"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 44-year-old alcoholic is brought to the emergency department by his wife. The person has not consumed alcohol for the past two days due to religious reasons. The person complained of nausea, vomiting and dizziness. On the second day, he developed seizures, that progressed to generalized tonic clonic seizures (GTCs. Which of the following would be the best medication to manage the seizures of the patient?",
+    "options": [
+      "Diazepam",
+      "Sodium valproate",
+      "Phenytoin",
+      "Clonidine"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A33-year-old patient present with being frightened by heart palpitations and dizziness. Further evaluation reveals that the patient has used a substance heavily, but stopped about 3 days prior to experiencing symptoms, which of the following is the most likely substance used?",
+    "options": [
+      "Alprazolam",
+      "Cannabis",
+      "Cocaine",
+      "Heroin"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A chronic smoker taking 20 cigarettes per day has developed chronic cough. His family suggested quitting cigarettes. He is ready to quit but thinks that quitting will make him irritable. Which of the following option best describes the stage of behaviour change?",
+    "options": [
+      "Contemplation and cost analysis",
+      "Precontemplation and preparation",
+      "Persuasion",
+      "Belief"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 55-year-old woman with a history of prolonged alcohol abuse cheerfully greets the resident doctor of her nursing home, whom she has met many times before, and calls him “my dear friend rahul.” The physician explains who he is and tells the patient his name. Two minutes later, when he asks the patient if she knows who he is, she answers with a smile: “Of course, you are my cousin Raghav from Kerala.” What vitamin deficiency can cause this particular form of alcohol induced amnestic disorder?",
+    "options": [
+      "Thiamine",
+      "Folate",
+      "Panthotenic acid",
+      "Riboflavin"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 45-year male with a history of alcohol dependence presents with confusion, nystagmus and ataxia. Examination reveals 6th cranial nerve weakness. He is most likely to be suffering from",
+    "options": [
+      "Wernicke encephalopathy",
+      "Korsakoff’s psychosis",
+      "DeClerambault syndrome",
+      "Delirium tremens"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 19-year-old man is brought to the emergency room by his distraught parents, who are worried about his vomiting and profuse diarrhea. On arrival, his pupils are dilated, his blood pressure is 175/105 mm Hg, and his muscles are twitching. His parents report that these symptoms started 2 hours earlier. For the past few days he has been homebound because of a sprained ankle, and during this time he has been increasingly anxious and restless. He has been yawning incessantly and has had a runny nose. Which of the following drugs is this man most likely to be withdrawing from?",
+    "options": [
+      "Heroin",
+      "Alcohol",
+      "Benzodiazepine",
+      "Cocaine"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following  are not components of sigmund freud’s dream work?",
+    "options": [
+      "Compensation",
+      "Displacement",
+      "Condensation",
+      "Symbolization"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is also called ambulatory schizophrenia?",
+    "options": [
+      "Borderline personality disorder",
+      "Schizotypal personality disorder",
+      "Schizoid personality disorder",
+      "Histrionic personality disorder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following formication is commonly associated with?",
+    "options": [
+      "Alcohol-induced psychosis",
+      "Amphetamine-induced psychosis",
+      "Cannabis-induced psychosis",
+      "Cocaine-induced psychosis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In which of the following stage are seen cognitive developmental theory, concepts like “out of sight is out of mind” and “here and now”?",
+    "options": [
+      "sensorimotor stage",
+      "preoperational stage",
+      "concrete operational",
+      "Stage of formal operations"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is not a symptom of neuroleptic malignant syndrome?",
+    "options": [
+      "Hypothermia",
+      "Autonomic dysregulation",
+      "Muscle rigidity",
+      "Catatonia and stupor"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Psychoanalysis uses techniques such as free association, analysis of dreams, and transference to uncover \"unconscious\" urges, and thereby to reduce the need forneurotic defenses. Which of the following is not neurotic defense mechanism?",
+    "options": [
+      "Regression",
+      "Isolarion",
+      "Reacting formation",
+      "Undoing"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "According to Freud: Neurotic reactions in  the adult are associated frequently with  neurotic reactions in childhood. The  connection is sometimes continuous but  more often is separated by a latent period of non neurosis.Which of the following is the most important cause of neurotic reaction?",
+    "options": [
+      "Regression",
+      "Projection",
+      "Sublimation",
+      "Suppression"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Rivastigmine and donepezil are drugs used predominantly in the management of:",
+    "options": [
+      "Dementia",
+      "Dissoiciation",
+      "Delusion",
+      "Depression"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following causes predominant retrograde amnesia and minimal anterograde amnesia?",
+    "options": [
+      "Dissociative amnesia",
+      "Alzheimer's disease",
+      "Head injury",
+      "Korsakoff syndrome"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is not a cluster A personality disorder?",
+    "options": [
+      "Narcissistic",
+      "Schizoid",
+      "Paranoid",
+      "Schizotypal"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the earliest presenting symptom of the AIDS Dementia Complex?",
+    "options": [
+      "Losing track of conversations mid sentence",
+      "Hyper reflexia",
+      "Walking slowly",
+      "Positive babinski sign"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In which of the following syndrome cortical blindness with confabulation is seen in?",
+    "options": [
+      "Anton syndrome",
+      "Wemicke's Encephalopathy",
+      "Korsakoff syndrome",
+      "Psychogenic amnesia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In which of the following disorder automatic movements of mouth and tongue are seen in?",
+    "options": [
+      "Tardive dyskinesia",
+      "Tardive dystonia",
+      "Perioral rabbit tremors",
+      "Pseudo parkinsonism"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 65-year-old male is brought to the outpatient clinic with one-year illness characterized by marked forgetfulness, visual hallucinations, suspiciousness, personality decline, poor self-care and progressive deterioration in his condition. His Mini Mental Status Examination (MMSE. Score is 10. Which of the following  is the most likely diagnosis?",
+    "options": [
+      "Dementia",
+      "Schizophrenia",
+      "Mania",
+      "Depression"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 35-year-old patient with pneumonia for 5 days admitted to hospital. He suddenly ceases to recognize doctor and staff and think that he is in jail. He complains of scorpions attacking him, is in altered sensorium. Which of the following condition is this?",
+    "options": [
+      "Acute delirium",
+      "Dementia",
+      "Schizophrenia",
+      "Acute paranoid state"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 20-year-old  young lady was admitted with h/o taking over dose of diazepam after broken affair. She has history of slitting her wrist previously. Which of the following is the most  likely diagnosis?",
+    "options": [
+      "Borderline PD",
+      "Dependent PD",
+      "Narcissistic PD",
+      "Histrionic PD"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 27-year-old female, who works in an office refuses to socialize with her colleagues. She doesn't have any friends and when a male colleague asked her out, she refused, though she really liked him. On asking the reason, she says, no body would like me and I don't want to hurt myself. Which of the following is the likely diagnosis?",
+    "options": [
+      "Avoidant personality disorder",
+      "Schizoid personality disorder",
+      "Histrionic personality disorder",
+      "Anankastic personality disorder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A reluctant 10-year-old child is compelled to bring sugar from the store, half of it spills in the process. Which of the following is this an illustration of?",
+    "options": [
+      "Passive aggression",
+      "Hysteria",
+      "Disobidience",
+      "Active aggression"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 30-year-old patient screams “No, I don’t remember, and I don’t want to remember;’ as  asked to recall a painful episode from his childhood. Which of the following  defense mechanism is the most closely suggested by this man’s words and behaviour?",
+    "options": [
+      "Denial",
+      "Projection",
+      "Distortion",
+      "Repression"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A-14 year-old boy starts cleaning his room regularly because he wants to avoid the scolding of mother. Which of the following is this called as?",
+    "options": [
+      "Negative reinforcement",
+      "Positive reinforcement",
+      "Punishment",
+      "Exctinction"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 33-year-old man who, as a child, was beaten by his parents for every small infraction nonetheless idealizes them and describes them as “good parents who did not spoil their children.” He is baffled and angry when he is ordered to start parenting classes after the school nurse reports that his children consistently come to school with bruises. Which defense mechanism?",
+    "options": [
+      "Identification with aggressor",
+      "Acting out",
+      "Denial",
+      "Rationalization"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 56-year-old alcoholic patient comes to your office, he can not tell his name. There is gross in coordination in walking, and his eyes are deviated to one side. Which of the following is the probable diagnosis?",
+    "options": [
+      "Wernicke's encephalopathy",
+      "Korsakoff's psychosis",
+      "Alcoholic hallucinosis",
+      "Delirium tremens"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Kabir has anger management issues. Preethi's (Kabir's girlfriend) father opposes her and Kabir relationship due to his brash behaviour. Kabir demands Preethi decide within six hours otherwise he will end their relationship. Following this incident, Preethi's parents seize her phone, preventing her from contacting Kabir. By the time she manages to visit Kabir's house, he injects morphine into himself, and becomes unconscious for two days. Apart from bladder incontinence, we could have notice the following except:",
+    "options": [
+      "Hypertension",
+      "Pinpoint pupil",
+      "Cyanosis",
+      "Respiratory depression"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Some substances show variety of psychological phenomena, including a variety of perceptual disturbances which would manifest among some users long after the drug had left the system. These phenomena were commonly referred to as \"flashbacks\" . Which of the following substances is associated with flashback phenomenon?",
+    "options": [
+      "All of the above",
+      "LSD",
+      "Psilocybin",
+      "Cannabis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 30-year-old male with history of alcohol abuse for 15 years is brought to the hospital emergency with 'complaints of fearfulness, misrecognition, talking of self, aggressive behavior, tremulousness and seeing snakes and reptiles that are not visible to others around him. There is history of last drinking alcohol 2 days prior to the onset of the present complains. Which of the following is he the most likely suffering from?",
+    "options": [
+      "Delirium tremens",
+      "Alcoholic hallucinosis",
+      "Schizophrenia",
+      "Seizure disorder"
+    ],
+    "answer": 0
+  }
+]

@@ -1,0 +1,2189 @@
+[
+  {
+    "question": "Identify Type of prevention: Prostate Cancer Screening",
+    "options": [
+      "Secondary prevention",
+      "Primary prevention",
+      "Tertiary prevention",
+      "Combination of primary and secondary",
+      "Combination of secondary and tertiary"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Identify Type of prevention: Physio- therapy and associated medical therapy, following a stroke",
+    "options": [
+      "Tertiary prevention",
+      "Primary prevention",
+      "Tertiary prevention",
+      "Combination of primary and secondary",
+      "Combination of secondary and tertiary"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Identify Type of prevention: Measles vaccination",
+    "options": [
+      "Primary prevention",
+      "Secondary prevention",
+      "Tertiary prevention",
+      "Combination of primary and secondary",
+      "Combination of secondary and tertiary"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Identify Type of prevention: Breast cancer and cervical cancer screening in women",
+    "options": [
+      "Secondary prevention",
+      "Primary prevention",
+      "Tertiary prevention",
+      "Combination of primary and secondary",
+      "Combination of secondary and tertiary"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "For the following risk factor and health outcomes, identify whether it is necessary cause or sufficient cause: Skin contact with an open fire / Burn",
+    "options": [
+      "Sufficient",
+      "Necessary",
+      "Not necessary, not sufficient",
+      "It is not the cause",
+      "Both necessary and sufficient"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "For the following risk factor and health outcomes, identify whether it is necessary cause or sufficient cause: Measles virus / Measles",
+    "options": [
+      "Necessary",
+      "Sufficient",
+      "Not necessary, not sufficient",
+      "It is not the cause",
+      "Both necessary and sufficient"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "For the following risk factor and health outcomes, identify whether it is necessary cause or sufficient cause: Vibrio cholerae/ Cholera",
+    "options": [
+      "Necessary",
+      "Sufficient",
+      "Not necessary, not sufficient",
+      "It is not the cause",
+      "Both necessary and sufficient"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "For the following risk factor and health outcomes, identify whether it is necessary cause or sufficient cause: Smoking  / Lung cancer",
+    "options": [
+      "Not necessary, not sufficient",
+      "Sufficient",
+      "Necessary",
+      "It is not the cause",
+      "Both necessary and sufficient"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Identify following situation by letters A, B, C, D, or E: Usual time of diagnosis (Look at the Att #1)",
+    "options": [
+      "D",
+      "B",
+      "C",
+      "A",
+      "E"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Identify following situation by letters A, B, C, D, or E: Exposure (Look at the Att #1)",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Identify following situation by letters A, B, C, D, or E: Diagnosis that was established during the screening program\nNatural History of Disease Timeline: (Look at the Att # 1)",
+    "options": [
+      "B",
+      "A",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Identify following situation by letters A, B, C, D, or E: Time of primary prevention (Look at the Att #1)\nNatural History of Disease Timeline:",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Match the term to the activity that best describes it: compare frequency of brain cancer among anatomists with frequency in general population",
+    "options": [
+      "Risk factor",
+      "Determinants",
+      "Application",
+      "Distribution",
+      "Determinants and Application"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Match the term to the activity that best describes it: mark on a map the residences of all children born with birth defects within 2    miles of a hazardous waste site",
+    "options": [
+      "Risk factor",
+      "Determinants",
+      "Application",
+      "Distribution",
+      "Determinants and Application"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Match the term to the activity that best describes it: graph the number of cases of congenital syphilis by year for the country",
+    "options": [
+      "Distribution",
+      "Determinants",
+      "Application",
+      "Risk factor",
+      "Determinants and Application"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Match the term to the activity that best describes it: recommend that close contacts of a child recently reported with    meningococcal meningitis receive antibiotics",
+    "options": [
+      "Application",
+      "Determinants",
+      "Distribution",
+      "Risk factor",
+      "Determinants and Application"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "For each of the fractions shown below, indicate whether it is a ratio, a proportion, a rate, or none of the three:\nnumber of women in State A who died from heart disease in 2004    \nestimated number of women living in State A on July 1, 2004",
+    "options": [
+      "Rate",
+      "Proportion",
+      "Ratio",
+      "Ratio& Proportion",
+      "Proportion & Rate"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "For each of the fractions shown below, indicate whether it is a ratio, a proportion, a rate, or none of the three:\nnumber of women in State A who died from heart disease in 2004 /   \nestimated number of women living in State A on July 1, 2004",
+    "options": [
+      "Ratio",
+      "Proportion",
+      "Rate",
+      "Ratio& Proportion",
+      "Proportion & Rate"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "For each of the fractions shown below, indicate whether it is a ratio, a proportion, a rate, or none of the three:\nnumber of women in State A who died from lung cancer in 2004  /  \nnumber of women in State A who died from cancer (all types) in 2004",
+    "options": [
+      "Proportion",
+      "Ratio",
+      "Rate",
+      "Ratio& Proportion",
+      "Proportion & Rate"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "For each of the fractions shown below, indicate whether it is a ratio, a proportion, a rate, or none of the three:\nnumber of people in Region A who died from rabies in 2022    \nnumber of people in Region A who died in 2022",
+    "options": [
+      "Proportion",
+      "Ratio",
+      "Rate",
+      "Ratio& Proportion",
+      "Proportion & Rate"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Calculate cumulative incidence from Oct 1 to Apr 1 (Look at the Att #1)",
+    "options": [
+      "3",
+      "1",
+      "4",
+      "6",
+      "7"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Calculate Attack rate from Oct 1 to Sept 30 (Look at the Att #1)",
+    "options": [
+      "4",
+      "1",
+      "3",
+      "6",
+      "7"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Calculate point prevalence Oct 1 (Look at the Att #1)",
+    "options": [
+      "6",
+      "1",
+      "4",
+      "3",
+      "7"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Calculate point prevalence Apr 1 (Look at the Att #1)",
+    "options": [
+      "7",
+      "1",
+      "4",
+      "6",
+      "3"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In the country A, as a result of the provision of effective diabetes treatment, an increase in the life expectancy of patients was noted. What epidemiological characteristics can this affect?",
+    "options": [
+      "increase prevalence",
+      "increase in incidence",
+      "decrease in prevalence",
+      "decrease in incidence"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Calculate the relative risk for a population in which incidence of disease among exposed is 100 and non-exposed is 25",
+    "options": [
+      "100/25=4",
+      "100/25*100=400",
+      "25/100=0.25",
+      "100-25=75"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In a survey of 1,150 women who gave birth in Maine in 2000, a total of 468 reported taking a multivitamin at least 4 times a week during the month before becoming pregnant. Calculate the prevalence of frequent multivitamin use in this group",
+    "options": [
+      "468/1150*100",
+      "1150/468",
+      "468/1150-100",
+      "1150-468/100",
+      "1150/468*100"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In 2001, 450 new cases of acquired immunodeficiency syndrome (AIDS) were reported in the United States. The estimated mid-year population of the U.S. in 2001 was approximately 10000. Calculate the incidence rate of AIDS in 2001",
+    "options": [
+      "450/10000*100",
+      "450/10000-100",
+      "10000/450*100",
+      "10000-450*100",
+      "450*10000/100"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In 2001, 200 new cases of hepatitis С were reported in the United States. The estimated mid-year population of the U.S. in 2001 was approximately 1000000. Calculate the incidence rate of hepatitis С in 2001",
+    "options": [
+      "200/1000000",
+      "1000000/200*10",
+      "1000-200*10",
+      "200/1000000-100",
+      "200*1000/10"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In the study of atherosclerosis, 200 of the 259 diabetic men died during the 15-year follow-up period. Calculate the risk of death for these men.",
+    "options": [
+      "(200 / 259) x 100",
+      "(259 / 200) x 100",
+      "(200 + 259) / 100",
+      "200 / 259 + 100"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A city has a population of 50000. Of these, 5,000 have disease Y, which is incurable. There are 100 new cases and 40 deaths each year from this disease. There are 1500 deaths per year from all causes. The incidence of this disease is given by",
+    "options": [
+      "100/50000-5000",
+      "40/50000",
+      "1500/50000-1500",
+      "5000/50000"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A city has a population of 50000. Of these, 5000 have disease Y, which is incurable. There are 100 new cases and 40 deaths each year from this disease. There are 1500 deaths per year from all causes. The prevalence of this disease is given by",
+    "options": [
+      "5000/50000",
+      "100/50000",
+      "1500/50000",
+      "40/50000"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In the definition of epidemiology, “distribution” refers to:",
+    "options": [
+      "All of the above",
+      "When",
+      "Where",
+      "Who",
+      "Agent, host, environment"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In the definition of epidemiology, “determinants” generally includes:",
+    "options": [
+      "All of the above",
+      "Causes",
+      "Sources",
+      "Risk factors",
+      "Agents"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Epidemiologic triad consists of all of the following except:",
+    "options": [
+      "Study of endemic diseases",
+      "Host",
+      "Environment",
+      "Agent",
+      "Time, place, person"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Health surveillance is:",
+    "options": [
+      "Collection and interpretation of data",
+      "Interpretation of data",
+      "Monitoring programmes",
+      "Collection of data",
+      "Improvement of research methods"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The term \"iceberg phenomenon\" in epidemiology means:",
+    "options": [
+      "That the registered incidence rate is lower than the true",
+      "Prevalence of asymptomatic cases",
+      "Discrepancy of the registered morbidity and specific gravity of the persons having the corresponding antibodies",
+      "Slow-developing, hard-to-recognize infectious disease epidemics",
+      "All of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "When analyzing surveillance data by age, which of the following age groups is preferred?  (Choose one best answer)",
+    "options": [
+      "Depends on the disease",
+      "5-year age groups",
+      "10-year age groups",
+      "1-year age groups",
+      "Depends on the age"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Information is presented correctly:",
+    "options": [
+      "The cumulative incidence of angina pectoris in persons older than 50 years in city N in 1998 was 18 per 100 population per year",
+      "The incidence of schoolchildren in city N in 1998 was 32.5 per 100 thousand population",
+      "The incidence of dysentery in the population of city N was 85.2 per 100 thousand population",
+      "The proportion of cases of arterial hypertension in men aged 20-55 years, on average in large cities of country N in 1990-98, was 25.3%",
+      "Prevalence of two types"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In the city of N. the total annual prevalence rate of long-term disease X in 1991, was 105.6 per 100 thousand population  and in 1998 decreased to 70.4. The reasons for the low prevalence (choose all except one):",
+    "options": [
+      "The emergence of new drugs that lead to an increase in the life expectancy of patients with disease X",
+      "Reducing the risk of new cases of disease X",
+      "Increasing death rate as  a result of X-disease",
+      "The emergence of new drugs that increase the proportion of cured patients.",
+      "All of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "There were no new cases of Ebola virus in the United States from January 1, 1997 through January 1, 1998. Which of the following epidemiologic terms does this statement describe?",
+    "options": [
+      "Incidence",
+      "Lifetime prevalence",
+      "Period prevalence",
+      "Point prevalence",
+      "Mortality rate"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which term best describes the pattern of occurrence of the disease noted below in a single area: In May, 8,000 cases of Smallpox were confirmed in the city of «N». A month later, about 100,000 cases of Smallpox in five countries.",
+    "options": [
+      "Epidemic",
+      "Outbreak",
+      "Pandemic",
+      "Sporadic",
+      "Endemic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "If the prevalence of a disease has been more or less constant for the past ten years (i.e., new cases have been balanced by cures or deaths of prevalent cases), what would be the effect of a new program that reduces the incidence of the disease?",
+    "options": [
+      "It would increase prevalence of the disease",
+      "It would have no effect on the prevalence of disease",
+      "It would decrease prevalence of the disease.",
+      "The effect on prevalence cannot be predicted from the information given.",
+      "It would decrease mortality of the diseas"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "If the prevalence of a disease has been more or less constant for the past ten years (i.e., new cases have been balanced by cures or deaths of prevalent cases), what would be the effect if a large number of healthy people immigrated into the population?",
+    "options": [
+      "It would decrease prevalence of the disease.",
+      "It would increase prevalence of the disease",
+      "It would have no effect on the prevalence of disease",
+      "The effect on prevalence cannot be predicted from the information given.",
+      "It would decrease mortality of the diseas"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Dengue fever is indigenous to certain regions of Africa, Central and South America, and the Caribbean. Mosquitoes in these areas carry dengue fever and transmit it from person to person.Use the following choices for Questions:",
+    "options": [
+      "Endemic",
+      "Outbreak",
+      "Pandemic",
+      "Sporadic",
+      "Epidemic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In 2019 there was an outbreak of dengue fever in Hawaii, where the disease is not endemic. It’s believed an infected person visited the Big Island and was bitten by mosquitoes there. The insects then transferred the disease to other individuals they bit, which created what type of disease occurrence?",
+    "options": [
+      "Outbreak",
+      "Endemic",
+      "Pandemic",
+      "Sporadic",
+      "Epidemic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "According to the World Health Organization, when cases of a disease are in excess of what we would normally expect to see.",
+    "options": [
+      "Outbreak",
+      "Endemic",
+      "Pandemic",
+      "Sporadic",
+      "Epidemic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "By WHO definition  “the occurrence in a community or region of cases of an illness, specific health-related behaviour, or other health-related events clearly in excess of normal expectancy”.",
+    "options": [
+      "Epidemic",
+      "Outbreak",
+      "Pandemic",
+      "Sporadic",
+      "Endemic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Flu that spreading from person to person among students in MSI in December ( Look at the att #1)",
+    "options": [
+      "D",
+      "B",
+      "C",
+      "A"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Match the epi curve with the outbreak description.\n Meat that was infected by E.Coli had been sold for a week in supermarket ( Look at the att #1)",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Match the epi curve with the outbreak description.\nDishwasher who work in restaurant one day (Saturday only) was salmonella carrier  ( Look at the att # 1)",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Match the epi curve with the outbreak description.\nDishwasher who work in restaurant one day per week (Saturday only) for a month was salmonella carrier ( Look at the att #1)",
+    "options": [
+      "C",
+      "B",
+      "A",
+      "D"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Examine the table and provide proportion for calculation of attack rate.What is the attack rate among those who ate orange? (Look at the Att #1)",
+    "options": [
+      "45/100",
+      "4/16",
+      "10/11",
+      "46/184",
+      "5/100"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Examine the table and provide proportion for calculation of attack rate. What is the attack rate among those who drank vodka? (Look at the Att #1)",
+    "options": [
+      "10/11",
+      "45/100",
+      "4/16",
+      "46/184",
+      "5/100"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Examine the table and provide proportion for calculation of attack rate. What is the attack rate among those who ate apple pie?(Look at the Att #1)",
+    "options": [
+      "46/184",
+      "45/100",
+      "10/11",
+      "4/16",
+      "5/100"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Examine the table and provide proportion for calculation of attack rate. What is the attack rate among those who did not eat orange? (Look at the Att #1)",
+    "options": [
+      "5/100",
+      "45/100",
+      "10/11",
+      "46/184",
+      "4/16"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A direct transmission includes which of the following?",
+    "options": [
+      "Droplet spread",
+      "Vectorborne",
+      "Airborne",
+      "Vehicleborne",
+      "Foodborne"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "An Indirect transmission includes which of the following?",
+    "options": [
+      "Vectorborne",
+      "Droplet spread",
+      "Direct contact",
+      "Foodborne",
+      "All of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Define active immunity",
+    "options": [
+      "The development of immunity from previous exposure to an agent before a vaccine or natural infection",
+      "Immunity gained from a person to person transaction",
+      "Resistance of the entire community because of the people immunity within the community",
+      "Acquired immunity from previous exposure to an agent before a vaccine.",
+      "All of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Define passive immunity",
+    "options": [
+      "Immunity gained from a person to person transaction",
+      "The development of immunity from previous exposure to an agent before a vaccine or natural infection",
+      "Acquired immunity from previous exposure to an agent before a vaccine.",
+      "Resistance of the entire community because of the people immunity within the community",
+      "Immunogenicity"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The mode of transport of an infectious agent through the environment to a susceptible host is called a:",
+    "options": [
+      "Vehicle",
+      "Reservoir",
+      "Vector",
+      "Carrier",
+      "Agent"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A study in which children are randomly assigned to receive either a newly formulated vaccine or the currently available vaccine, and are followed to monitor for side effects and effectiveness of each vaccine, is an example of which type of study?",
+    "options": [
+      "Experimental",
+      "Observational",
+      "Observational case-control",
+      "Observational cross-sectional",
+      "Not an analytical or epidemiologic study"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The Iowa Women’s Health Study, in which researchers enrolled 41,837 women in 1986 and collected exposure and lifestyle information to assess the relationship between these factors and subsequent occurrence of cancer, is an example of which type(s) of study?",
+    "options": [
+      "Cohort",
+      "Experimental",
+      "Observational case-control",
+      "Observational cross-sectional",
+      "Not an analytical or epidemiologic study"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "British investigators conducted a study to compare measles-mumps-rubella (MMR) vaccine history among 1,294 children with pervasive development disorder (e.g., autism and Asperger’s syndrome) and 4,469 children without such disorders. (They found no association.)  This is an example of which type(s) of study?",
+    "options": [
+      "Observational case-control",
+      "Observational cohort",
+      "Experimental",
+      "Observational cross-sectional",
+      "Clinical trial"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "For the following situation, identify what it reflects: The subjects were women enrolled in a health maintenance Organization. At 3 months, each woman was randomly given one of two types of new rotavirus vaccine. Two weeks later, the participants received a call from a nurse asking if they had any side effects.",
+    "options": [
+      "Experimental",
+      "Observational cohort",
+      "Observational case-control",
+      "Observational cross-sectional",
+      "Not an analytical or epidemiologic study"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "American investigators conducted a study to compare measles-mumps-rubella (MMR) vaccine history among 1,294 children with pervasive development disorder (e.g., autism and Asperger’s syndrome) and 4,469 children without such disorders. (They found no association.) This is an example of which type(s) of study?",
+    "options": [
+      "Case-control",
+      "Cohort",
+      "Experimental",
+      "Cross-sectional",
+      "Clinical trial"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A study was conducted to investigate the effect of HIV infection on mortality among people in INDIA with TB. Individuals with TB were recruited from hospitals and their HIV status determined. They were then followed-up over ten years to compare mortality rates in the HIV positive group and HIV negative group.",
+    "options": [
+      "Cohort study",
+      "Randomized controlled trial",
+      "Case-control",
+      "Cross-sectional",
+      "Ecological study"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The measure of association used in a case-control study is:",
+    "options": [
+      "Odds Ratio",
+      "Ecologic Correlation",
+      "Relative Risk",
+      "Indigence",
+      "Prevalence"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "If we have a hypothetical group of smokers (exposed) and non-smokers (not exposed), then we can look for the rate of lung cancer (event).  If 17 smokers have lung cancer, 83 smokers do not have lung cancer, one non-smoker has lung cancer, and 99 non-smokers do not have lung cancer.   (Look at the Att #1).Please, calculate the odds  in the unexposed group",
+    "options": [
+      "1/99 = 0.01",
+      "17/83 = 20.5",
+      "17/83 = 0.205",
+      "1/99 = 0.09",
+      "17/100 = 0.017"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "If we have a hypothetical group of smokers (exposed) and non-smokers (not exposed), then we can look for the rate of lung cancer (event).  If 17 smokers have lung cancer, 83 smokers do not have lung cancer, one non-smoker has lung cancer, and 99 non-smokers do not have lung cancer.   (Look at the Att #1). Please, calculate the odds  ratio",
+    "options": [
+      "0.205/0.01=20.5",
+      "17/83 = 0.205",
+      "1/99 = 0.09",
+      "1/99 = 0.01",
+      "17/83 = 20.5"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Imagine that the incidence of gun violence is compared in two cities, one with relaxed gun laws (A), the other with strict gun laws (B). In the city with relaxed gun laws, there were 50 shootings in a population of 100,000 and in the other city, 10 shootings in a population of 100,000.   What is the relative risk of gun violence in the city with relaxed gun laws (A)?",
+    "options": [
+      "5",
+      "0.2",
+      "10",
+      "50",
+      "0.1"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Imagine that the incidence of gun violence is compared in two cities, one with relaxed gun laws (A), the other with strict gun laws (B). In the city with relaxed gun laws, there were 50 shootings in a population of 100,000 and in the other city, 10 shootings in a population of 100,000. What is the relative risk of gun violence in the city with strict gun laws (B)?",
+    "options": [
+      "0.2",
+      "5",
+      "10",
+      "50",
+      "0.1"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Consider the treatment of patients with endocarditis caused by Staphylococcus aureus (SA). Although the mortality rate for this disease ranges from 25% to 47% (6), let us assume that in the population of interest, White males aged 30 to 60 the mortality rate is 38% with the standard antibiotic treatment of penicillin, methycillin, vancomycin and other antibiotics. However, a new drug has been developed that attacks the bacteria’s ability to protect itself from the human immune system rather than interfering with cell wall development. The question is this: What are the odds of dying with the new drug as opposed to the standard antibiotic therapy protocol?  (Look at the Att #1). Table. Results from fictional SA endocarditis treatment study",
+    "options": [
+      "OR = (a/b)/(c/d) = (152/17)/(262/103) = 8.94/2.41 = 3.71",
+      "OR = (a/b)-(c/d) = (152/17)/(262/103) = 8.94/2.41 = 3.71",
+      "OR = (a/b)/(c/d) = (152/17)/(262/103) = 8.94/2.41 = 3.",
+      "OR = (a/c)/(c/d) = (152/17)/(262/103) = 8.94/2.41 = 3.71",
+      "OR = (a/c)/(b/d) = (152/17)/(262/103) = 8.94/2.41 = 3.71"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Consider the treatment of patients with endocarditis caused by Staphylococcus aureus (SA). Although the mortality rate for this disease ranges from 25% to 47% (6), let us assume that in the population of interest, White males aged 30 to 60 the mortality rate is 38% with the standard antibiotic treatment of penicillin, methycillin, vancomycin and other antibiotics. However, a new drug has been developed that attacks the bacteria’s ability to protect itself from the human immune system rather than interfering with cell wall development. The question is this: What are the odds of dying with the new drug as opposed to the standard antibiotic therapy protocol? The formula can also be presented as (a × d)/(b × c) (this is called the cross-product). (Look at the Att #1). Table. Results from fictional SA endocarditis treatment study",
+    "options": [
+      "OR = (152 × 103)/ (17 × 248) = (15656/4216) = 3.71.",
+      "OR = (152 - 103)/ (17 - 248) = (15656/4216) = 3.71.",
+      "OR = (152 / 103)+ (17/ 248) = (15656/4216) = 3.71",
+      "OR = (152 × 103)+ (17 × 248) = (15656/4216) = 3.71.",
+      "OR = (152 + 103)/ (17 + 248) = (15656/4216) = 3.71."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is an advantage of a case-control study?",
+    "options": [
+      "It may be used to study etiology of a rare disease.",
+      "Multiple disease outcomes following a selected exposure can be readily studied.",
+      "Dependence on recall by subjects in the study minimized.",
+      "It is possible to determine the true incidence of the disease.",
+      "There is little or no bias in assessment of exposure"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the measure of association for a case-control study?",
+    "options": [
+      "Odds ratio",
+      "Relative risk",
+      "prevalence",
+      "Confidence interval",
+      "incidence"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A study was carried out to find out association between Hypertension and Stroke. The risk ratio in this study is: (Look at the Att #1)",
+    "options": [
+      "(60/60+40)/(25/25+75)=",
+      "B. (60/100+40)/(25/100+75)=",
+      "(60/60+25)/(40/40+75)=",
+      "(60*75)/(25*40)=",
+      "(60*40)/(25*75)="
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A study was carried out to find out association between Hypertension and Stroke. The Odd ratio in this study is: (Look at the Att #1)",
+    "options": [
+      "(60*75)/(25*40)=",
+      "B. (60/100+40)/(25/100+75)=",
+      "(60/60+25)/(40/40+75)=",
+      "(60/60+40)/(25/25+75)=",
+      "(60*40)/(25*75)="
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A study was carried out to find out association between Hypertension and Stroke. The Relative risk in this study is: (Look at the Att #1)",
+    "options": [
+      "(60/60+40)/(25/25+75)=",
+      "B. (60/100+40)/(25/100+75)=",
+      "(60/60+25)/(40/40+75)=",
+      "(60*75)/(25*40)=",
+      "(60*40)/(25*75)="
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A study was carried out to find out association between Obesity and Diabetes type 2, The Odd ratio in this study is: (Look at the Att #1)",
+    "options": [
+      "85*75/25*15",
+      "85/15*25/75",
+      "(85/85+15)/(25/25+75)=",
+      "(85/85+25)/(15/15+75)=",
+      "85*25/75*15"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A study was carried out to find out association between Obesity and Diabetes type 2, The Relative Risk in this study is: (Look at the Att #1)",
+    "options": [
+      "(85/85+15)/(25/25+75)=",
+      "85/15*25/76",
+      "85*75/25*16",
+      "(85/85+25)/(15/15+75)=",
+      "85*25/75*16"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A study was carried out to find out association between Obesity and Diabetes type 2, The Risk ratio in this study is: (Look at the Att #1)",
+    "options": [
+      "(85/85+15)/(25/25+75)=",
+      "85/15*25/77",
+      "85*75/25*17",
+      "(85/85+25)/(15/15+75)=",
+      "85*25/75*17"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Priority areas of application of cohort epidemiological studies are",
+    "options": [
+      "Different effects of one cause in one study",
+      "Rare diseases",
+      "One consequence of different causes in one study",
+      "All of the above",
+      "Chronic disease"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A cohort study differs from a case-control study in that:",
+    "options": [
+      "Subjects are enrolled or categorized on the basis of their exposure status in a cohort study but not in a case-control study",
+      "Subjects are asked about their exposure status in a cohort study but not in a casecontrol study",
+      "Cohort studies require many years to conduct, but case-control studies do not",
+      "Cohort studies are conducted to investigate chronic diseases, case-control studies are used for infectious diseases",
+      "neither above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Researchers conduct analytical study of pancreatic cancer. The study included 200 cases and 200 controls. Of the cases, 80% reported they smoked cigarettes. Among the controls, 50% reported they smoked cigarettes.What is the type of study?",
+    "options": [
+      "Case-control",
+      "Cohort",
+      "Clinical trial",
+      "Experimental study"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A harmless inactive substance offered under the guise of a drug that does not differ from it in appearance, smell, texture, is called:",
+    "options": [
+      "Placebo",
+      "Analog of the studied drug",
+      "Homeopathic medicine",
+      "Supplement",
+      "Randomization"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A study in which the patient does not know and the doctor knows what treatment the patient is receiving is called:",
+    "options": [
+      "Single blind",
+      "Triple blind",
+      "Double blind",
+      "Placebo-controlled",
+      "It is impossible for any type of study"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In this regard, it can be argued that in a randomized controlled trial, patients receiving a placebo are not deceived (do not receive proper treatment):",
+    "options": [
+      "Sign the \"Informed consent of the patient\" (where his consent to the use of placebo is provided)",
+      "The attending physician receives the patient's oral consent to conduct the experiment",
+      "Placebo has no harmful effects on the body, so its use does not require the consent of the patient",
+      "Sign consent for hospitalization",
+      "Sign consent for discharge"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Researchers recruited 100 participants with CVD. 50 participants were hospitalized with stroke and 50 participants were hospitalized for other disorders. The main goal of the study was to identify effect of statins (HMG-CoA reductase inhibitors) on development of stroke\nResults of medical cards review: 10% of participants took statins before the stroke. Out of all participants who took statins 6 had stroke.What is the outcome in the study?",
+    "options": [
+      "Stroke",
+      "Statins",
+      "Other disorders",
+      "CVD",
+      "Diabetes"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Researchers recruited 100 participants with CVD. 50 participants were hospitalized with stroke and 50 participants were hospitalized for other disorders. The main goal of the study was to identify effect of statins (HMG-CoA reductase inhibitors) on development of stroke\nResults of medical cards review: 10% of participants took statins before the stroke. Out of all participants who took statins 6 had stroke.What is the type of study?",
+    "options": [
+      "Case-control",
+      "Cohort",
+      "Cross-Sectional",
+      "Clinical trial",
+      "Ecological"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Researchers recruited 100 participants with CVD. 50 participants were hospitalized with stroke and 50 participants were hospitalized for other disorders. The main goal of the study was to identify effect of statins (HMG-CoA reductase inhibitors) on development of stroke\nResults of medical cards review: 10% of participants took statins before the stroke. Out of all participants who took statins 6 had stroke.What is the measure of association that you will use?",
+    "options": [
+      "OR",
+      "RR",
+      "Percentage",
+      "Proportion",
+      "Attributable risk"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Researchers recruited 100 participants with CVD. 50 participants were hospitalized with stroke and 50 participants were hospitalized for other disorders. The main goal of the study was to identify effect of statins (HMG-CoA reductase inhibitors) on development of stroke\nResults of medical cards review: 10% of participants took statins before the stroke. Out of all participants who took statins 6 had stroke.Fill out two by two table",
+    "options": [
+      "A, B,C,D=6, 4, 44, 46",
+      "A, B,C,D=6, 46, 44, 4",
+      "A, B,C,D=6, 4, 50, 50",
+      "A, B,C,D=4, 6, 46, 44",
+      "A, B,C,D=4, 6, 50, 50"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Researchers recruited 100 participants with CVD. 50 participants were hospitalized with stroke and 50 participants were hospitalized for other disorders. The main goal of the study was to identify effect of statins (HMG-CoA reductase inhibitors) on development of stroke\nResults of medical cards review: 10% of participants took statins before the stroke. Out of all participants who took statins 6 had stroke.Provide proportion for calculation the association based on the numbers in the table",
+    "options": [
+      "6*46 /  4*44",
+      "4*46 /  6*44",
+      "50 /  4*44",
+      "6/6+4 / 44/44+46",
+      "6/50  /  4/100"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Researchers interviewed 200 patients. 100 participants were hospitalized with diagnoses diabetes and 100 patients hospitalized for other disorders, comparing their drinking habits in order to identify effect of alcohol consumptions on development of diabetes\nResults of interview: The prevalence of positive alcohol drinking status among participants was 10%. Out of all participants who consumed alcohol 18 had diabetes.\nWhat is the exposure in the study?",
+    "options": [
+      "Alcohol consumption",
+      "Diabetes",
+      "CVD",
+      "Other disorders",
+      "Association"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Researchers interviewed 200 patients. 100 participants were hospitalized with diagnoses diabetes and 100 patients hospitalized for other disorders, comparing their drinking habits in order to identify effect of alcohol consumptions on development of diabetes\nResults of interview: The prevalence of positive alcohol drinking status among participants was 10%. Out of all participants who consumed alcohol 18 had diabetes.\nWhat is the outcome in the study?",
+    "options": [
+      "Diabetes",
+      "Alcohol consumption",
+      "CVD",
+      "Other disorders",
+      "Association"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Researchers interviewed 200 patients. 100 participants were hospitalized with diagnoses diabetes and 100 patients hospitalized for other disorders, comparing their drinking habits in order to identify effect of alcohol consumptions on development of diabetes\nResults of interview: The prevalence of positive alcohol drinking status among participants was 10%. Out of all participants who consumed alcohol 18 had diabetes.\nWhat is the type of study?",
+    "options": [
+      "Cross-Sectional",
+      "Case-control",
+      "Cohort",
+      "Clinical trial",
+      "Ecological"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Researchers interviewed 200 patients. 100 participants were hospitalized with diagnoses diabetes and 100 patients hospitalized for other disorders, comparing their drinking habits in order to identify effect of alcohol consumptions on development of diabetes\nResults of interview: The prevalence of positive alcohol drinking status among participants was 10%. Out of all participants who consumed alcohol 18 had diabetes.\nWhat is the measure of association that you will use?",
+    "options": [
+      "OR",
+      "RR",
+      "Percentage",
+      "Proportion",
+      "Attributable risk"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Researchers interviewed 200 patients. 100 participants were hospitalized with diagnoses diabetes and 100 patients hospitalized for other disorders, comparing their drinking habits in order to identify effect of alcohol consumptions on development of diabetes\nResults of interview: The prevalence of positive alcohol drinking status among participants was 10%. Out of all participants who consumed alcohol 18 had diabetes.\nFill out two by two table",
+    "options": [
+      "A, B,C,D=18, 2, 82, 98",
+      "A, B,C,D= 18, 82, 2, 98",
+      "A, B,C,D= 18, 2, 20, 100",
+      "A, B,C,D= 5, 45, 5, 45",
+      "A, B,C,D= 98,8 2, 2, 18"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Researchers interviewed 200 patients. 100 participants were hospitalized with diagnoses diabetes and 100 patients hospitalized for other disorders, comparing their drinking habits in order to identify effect of alcohol consumptions on development of diabetes\nResults of interview: The prevalence of positive alcohol drinking status among participants was 10%. Out of all participants who consumed alcohol 18 had diabetes.\nProvide proportion for calculation the association based on the numbers in the table",
+    "options": [
+      "18*98 / 2*82",
+      "18/ 100",
+      "18*10 / 200*82",
+      "18/ 18+2  / 82/ 82+98",
+      "18/ 2*82"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Researchers recruited 100 HIV positive participants, 50 of them strictly followed antiretroviral regimen and other 50 did not, researchers followed the participants for 5 years in order to identify effect of “strictly follow the regimen” and development of AIDS\nResults of interview: The prevalence of AIDS among participants was 10%. Out of all participants who had AIDS 5 strictly followed the regimen.\nWhat is the exposure in the study?",
+    "options": [
+      "Followed antiretroviral regimen",
+      "AIDS",
+      "HIV",
+      "Did not follow antiretroviral regimen",
+      "Antiretroviral therapy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Identify Type of prevention: Education about healthy and safe habits among participants with diabetes in order to diabetic foot",
+    "options": [
+      "Tertiary prevention",
+      "Secondary prevention",
+      "Primary prevention",
+      "Combination of primary and secondary",
+      "Combination of secondary and tertiary"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Identify Type of prevention: Rubella immunization",
+    "options": [
+      "Primary prevention",
+      "Secondary prevention",
+      "Tertiary prevention",
+      "Combination of primary and secondary",
+      "Combination of secondary and tertiary"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Identify Type of prevention: High blood pressure screening among people older than 50",
+    "options": [
+      "Secondary prevention",
+      "Primary prevention",
+      "Tertiary prevention",
+      "Combination of primary and secondary",
+      "Combination of secondary and tertiary"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Identify Type of prevention: Vaccination against  cervical cancer",
+    "options": [
+      "Primary prevention",
+      "Secondary prevention",
+      "Tertiary prevention",
+      "Combination of primary and secondary",
+      "Combination of secondary and tertiary"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "For the following risk factor and health outcomes, identify whether it is necessary cause or sufficient cause: Treponema pallidum / Syphilis",
+    "options": [
+      "Necessary",
+      "Sufficient",
+      "Not necessary, not sufficient",
+      "It is not the cause",
+      "Both necessary and sufficient"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "For the following risk factor and health outcomes, identify whether it is necessary cause or sufficient cause: Alcohol consumption / Cirrhosis",
+    "options": [
+      "Not necessary, not sufficient",
+      "Sufficient",
+      "Necessary",
+      "It is not the cause",
+      "Both necessary and sufficient"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "For the following risk factor and health outcomes, identify whether it is necessary cause or sufficient cause: HIV infection / AIDS",
+    "options": [
+      "Necessary",
+      "Sufficient",
+      "Not necessary, not sufficient",
+      "It is not the cause",
+      "Both necessary and sufficient"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "For the following risk factor and health outcomes, identify whether it is necessary cause or sufficient cause: A gene mutation associated with Tay-Sachs",
+    "options": [
+      "Necessary",
+      "Sufficient",
+      "Not necessary, not sufficient",
+      "It is not the cause",
+      "Both necessary and sufficient"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Identify following situation by letters A, B, C, D, or E: Time of tertiary prevention (Look at the Att #1)\nNatural History of Disease Timeline:",
+    "options": [
+      "D",
+      "B",
+      "C",
+      "A",
+      "E"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Identify following situation by letters A, B, C, D, or E: Time of secondary prevention (Look at the Att #1)\nNatural History of Disease Timeline:",
+    "options": [
+      "B",
+      "A",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Identify following situation by letters A, B, C, D, or E: Dual energy x-ray absorptiometry (DXA) for the detection of osteoporosis (Look at the Att #1)\nNatural History of Disease Timeline",
+    "options": [
+      "B",
+      "A",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Identify following situation by letters A, B, C, D, or E: Time of Tetanus vaccination (Look at the Att #1)\nNatural History of Disease Timeline",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Match the term to the activity that best describes it: tabulate the frequency of clinical signs, symptoms, and laboratory findings    among children with chickenpox in ХХХ",
+    "options": [
+      "Distribution",
+      "Determinants",
+      "Application",
+      "Risk factor",
+      "Determinants and Application"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Match the term to the activity that best describes it: Graph the number of malaria cases by year for the country",
+    "options": [
+      "Distribution",
+      "Determinants",
+      "Application",
+      "Risk factor",
+      "Determinants and Application"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Match the term to the activity that best describes it: mark water sources on the map within 2 miles of reported cases of cholera",
+    "options": [
+      "Distribution",
+      "Determinants",
+      "Application",
+      "Risk factor",
+      "Determinants and Application"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Match the term to the activity that best describes it: describing demographic characteristics of an affected population",
+    "options": [
+      "Distribution",
+      "Determinants",
+      "Application",
+      "Risk factor",
+      "Determinants and Application"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "For each of the fractions shown below, indicate whether it is a ratio, a proportion, a rate, or none of the three:\nnumber of people in Region A  who died from rabies  in 2022    \nestimated  number of people living in Region A on July 1, 2022",
+    "options": [
+      "Rate",
+      "Proportion",
+      "Ratio",
+      "Ratio& Proportion",
+      "Proportion & Rate"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "For each of the fractions shown below, indicate whether it is a ratio, a proportion, a rate, or none of the three:\nnumber of women in State A who died from rabies in 2022    \nnumber of man in State A who died from rabies in 2022",
+    "options": [
+      "Ratio",
+      "Proportion",
+      "Rate",
+      "Ratio& Proportion",
+      "Proportion & Rate"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "For each of the fractions shown below, indicate whether it is a ratio, a proportion, a rate, or none of the three:",
+    "options": [
+      "Ratio",
+      "Proportion",
+      "Rate",
+      "Ratio& Proportion",
+      "Proportion & Rate"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "For each of the fractions shown below, indicate whether it is a ratio, a proportion, a rate, or none of the three",
+    "options": [
+      "Ratio",
+      "Proportion",
+      "Rate",
+      "Ratio& Proportion",
+      "Proportion & Rate"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Calculate point prevalence Sept 30 (Look at the Att #1)",
+    "options": [
+      "5",
+      "1",
+      "4",
+      "3",
+      "7"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Calculate cumulative incidence from June 1 to August 30 (Look at the Att #1)",
+    "options": [
+      "7",
+      "6",
+      "1",
+      "9",
+      "3"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Calculate cumulative incidence from July 1 to August 30(Look at the Att #1)",
+    "options": [
+      "1",
+      "6",
+      "7",
+      "9",
+      "3"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Calculate cumulative incidence from June 1 to July 1 (Look at the Att #1)",
+    "options": [
+      "6",
+      "7",
+      "1",
+      "9",
+      "3"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The mortality rate will be high if:",
+    "options": [
+      "the prevalence of the disease and its mortality is high",
+      "the prevalence of the disease is high and its mortality is low",
+      "the prevalence of the disease is low and its mortality is high",
+      "prevalence and mortality of this disease is low"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "City A has population of 3500, April 2000. Registered 15 patients with meningitis, February 1, 2000. Identified 12 new patients with meningitis, February 1, 2001. What is cumulative incidence of meningitis in city A, 2001?",
+    "options": [
+      "12/ 3500-15",
+      "12/3500",
+      "12/ 3500+15",
+      "12+10 / 3500",
+      "27 / 3500"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "City A has population of 3500, April 2000. Registered 12 patients with atherosclerotic disease, February 1, 2000\nIdentified 15 new patients with atherosclerotic disease, February 1, 2001\nWhat is cumulative incidence of atherosclerotic disease in city A, 2001?",
+    "options": [
+      "12/ 3500-15",
+      "15/3500-12",
+      "15/ 3500+12",
+      "12+15 / 3500",
+      "15 / 3500"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "City A has population of 3500, April 2000.  Registered 15 patients with chronic liver disease, February 1, 2000\nIdentified 25 new patients with chronic liver disease, February 1, 2001\nWhat is cumulative incidence of chronic liver disease in city A, 2001?",
+    "options": [
+      "25/ 3500-15",
+      "15/3500-45",
+      "15 / 3500",
+      "25+15 / 3500",
+      "25 / 3500"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "City A has population of 3500, April 2000. Registered 50 patients with brucellosis, February 1, 2000\nIdentified 20 new patients with brucellosis February 1, 2001\nWhat is point prevalence of brucellosis in city A, February 1, 2000?",
+    "options": [
+      "20 / 3500",
+      "50 / 3500",
+      "50/ 2500-50",
+      "50+20 / 3500",
+      "50/3500-20"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "City A has population of 3500, April 2000. Registered 40 patients with pneumonia, February 1, 2000\nIdentified 15 new patients with pneumonia, February 1, 2001\nWhat is point prevalence of pneumonia in city A, February 1, 2000?",
+    "options": [
+      "15 / 3500",
+      "40/3500-15",
+      "40/ 2000",
+      "15/2000",
+      "40 / 3500"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "City A has population of 3500, April 2000. Registered 25 patients with diabetes February 1, 2000\nIdentified 50 new patients with diabetes, February 1, 2001\nWhat is point prevalence of diabetes in city A, February 1, 2000?",
+    "options": [
+      "50+25 / 3500",
+      "50/3500-25",
+      "25/ 3500-25",
+      "25 / 3500",
+      "25 / 3500"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "City A has population of 3500, April 2000. Registered 20 patients with measles, February 1, 2000\nIdentified 5 new patients with measles February 1, 2001\nWhat is point prevalence of measles in city A, February 1, 2000?",
+    "options": [
+      "5 / 3500",
+      "20 / 3500",
+      "20/ 3500-20",
+      "20+50 / 3500",
+      "20/3500-5"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The objectives of epidemiology, in particular, include all except one:",
+    "options": [
+      "Development of various means and methods to combat the spread of diseases",
+      "Identifying the causes and spread of diseases",
+      "Disease description",
+      "Morbidity forecast for a certain period of questions from the block",
+      "All of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Indicator (cumulative) incidence reflects all except one:",
+    "options": [
+      "Risk of persons belonging to any population group to be sick with a certain disease",
+      "New cases of a certain disease in a certain population group over a certain period of time, in a given territory",
+      "The average risk of contracting a particular disease of persons belonging to any population group, for a certain time, in a given territory",
+      "The proportion of people who contracted a particular disease for the first time in a given population group over a given period of time, in a given territory",
+      "All of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Prevalence (prevalence, morbidity) - a type of morbidity indicator reflecting:",
+    "options": [
+      "In any population group for a certain time, in a given territory, all cases of this disease, regardless of the time of occurrence",
+      "Risk of infection among persons who have come into contact with a patient with an infection",
+      "Risk of chronic infections (e.g. tuberculosis)",
+      "For a certain time the proportion of patients with any disease in a given territory in the sum of all patients, regardless of the etiology of diseases",
+      "Morbidity forecast for a certain period of questions from the block"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the numerator of Prevalence?",
+    "options": [
+      "Number of all cases of disease",
+      "Number of new cases of disease",
+      "Number of population at a specified time",
+      "Number of death cases from particular disease",
+      "The average risk of contracting a particular disease of persons belonging to any population group, for a certain time, in a given territory"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the numerator of Incidence?",
+    "options": [
+      "Number of new cases of disease",
+      "Number of all cases of disease",
+      "Number of population at a specified time",
+      "Number of death cases from particular disease",
+      "The average risk of contracting a particular disease of persons belonging to any population group, for a certain time, in a given territory"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "True about prevalence are all, except:",
+    "options": [
+      "Rate",
+      "Specifically for all old and new cases",
+      "Point prevalence",
+      "Prevalence of two types",
+      "All of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of  the  following is  classifies the occurrence of disease according to the variables of person, place, and time?",
+    "options": [
+      "Descriptive Epidemiology",
+      "Analytic Epidemiology",
+      "Environmental Epidemiology",
+      "Experimental  study",
+      "Ecological study"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is an example of a type of descriptive epidemiologic study?",
+    "options": [
+      "Case Reports",
+      "Case-Control Study",
+      "Cohort Study",
+      "Cross-sectional study",
+      "Ecological study"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of following   term  that  refers to   the  Race and socioeconomic status?",
+    "options": [
+      "Person Variables",
+      "Secular Trends",
+      "Clustering",
+      "Nativity",
+      "Community"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of following  terms describe  a disease that occurs rarely and unexpectedly?",
+    "options": [
+      "sporadic",
+      "endemic",
+      "epidemic",
+      "pandemic",
+      "zoonotic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Malaria, usually no more than 1 cases per month in District 12; last week, 7 cases",
+    "options": [
+      "outbreack",
+      "Epidemic",
+      "Pandemic",
+      "Sporadic",
+      "Cluster"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "“An epidemic occurring worldwide, or over a very wide area, crossing international boundaries and usually affecting a large number of people”",
+    "options": [
+      "Pandemic",
+      "Outbreak",
+      "Endemic",
+      "Sporadic",
+      "Epidemic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The influenza (flu) of 1918-1919 killed between 20 and 40 million people. It is one of the most devastating disease occurrence in recorded world history. What is it?",
+    "options": [
+      "Pandemic",
+      "Outbreak",
+      "Endemic",
+      "Sporadic",
+      "Epidemic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "When the disease consistently present at a low level but limited to a particular region or population.",
+    "options": [
+      "Endemic",
+      "Outbreak",
+      "Pandemic",
+      "Sporadic",
+      "Epidemic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A disease which spreads rapidly, affecting a large number of people within a community, population or region",
+    "options": [
+      "Endemic",
+      "Outbreak",
+      "Pandemic",
+      "Sporadic",
+      "Epidemic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which term best describes the pattern of occurrence of the disease noted below in a single area? Disease: usually 10–12 cases per 3 month; last week, 20 cases",
+    "options": [
+      "Outbreak",
+      "Endemic",
+      "Pandemic",
+      "Sporadic",
+      "Epidemic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Match the epi curve with the outbreak description.\nDishwasher who work in restaurant each day for a week was salmonella carrier ( Look at the att # 1)",
+    "options": [
+      "B",
+      "A",
+      "C",
+      "D"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Identify the type of epidemic spread with which it is most consistent: 21 cases of shigellosis among children and workers at a day     care center over a period of 6 weeks, no external source identified (incubation period for shigellosis is usually 1-3 days)",
+    "options": [
+      "Propagated",
+      "Intermittent or continuous common source",
+      "continuous common source",
+      "Point source",
+      "Mix sourse"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Identify the type of epidemic spread with which it is most consistent: 36 cases of giardiasis over 6 weeks traced to occasional use of a supplementary reservoir (incubation period for giardiasis 3-25 days or more, usually 7-10 days)",
+    "options": [
+      "Intermittent continuous common source",
+      "Point source",
+      "continuous common source",
+      "Propagated",
+      "Mix sourse"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Identify the type of epidemic spread with which it is most consistent.: 43 cases of norovirus infection over 2 days traced to the ice machine on a  cruise ship (incubation period for norovirus is usually 24-48 hours)",
+    "options": [
+      "Point source",
+      "Intermittent or continuous common source",
+      "continuous common source",
+      "Propagated",
+      "Mix sourse"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Examine the table and provide proportion for calculation of attack rate. What is the attack rate among those who did not drink vodka?(Look at the Att #1)",
+    "options": [
+      "40/189",
+      "4/16",
+      "10/11",
+      "46/184",
+      "5/100"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Examine the table and provide proportion for calculation of attack rate. What is the attack rate among those who ate apple pie (Look at the Att #1)",
+    "options": [
+      "4/16",
+      "40/189",
+      "10/11",
+      "46/184",
+      "5/100"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Examine the table and provide proportion for calculation of attack rate \nWhat is the attack rate among those who did not eat Fish? (Look at the Att #1)",
+    "options": [
+      "25/96",
+      "38/150",
+      "112/150",
+      "71/96",
+      "38//25"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Examine the table and provide proportion for calculation of attack rate \nWhat is the attack rate among those who ate Fish? (Look at the Att #1)",
+    "options": [
+      "38/150",
+      "25/96",
+      "112/150",
+      "71/96",
+      "38//25"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Virulence of a disease is indicated by:",
+    "options": [
+      "Case fatality ratio",
+      "Specific mortality rate",
+      "Proportional mortality rate",
+      "Morbidity rate",
+      "Immunogenicity"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Diseases that are always present in a community, usually at a low, more or less constant, frequency are classified as having an ____________ pattern.",
+    "options": [
+      "Endemic",
+      "Epidemic",
+      "Pandemic",
+      "Sporadic",
+      "Outbreak"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Ability of agent to invade host and multiply refers to",
+    "options": [
+      "Infectivity",
+      "Pathogenicity",
+      "Immunogenicity",
+      "Virulence",
+      "Infestation"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Severity of infection by agent refers to",
+    "options": [
+      "Virulence",
+      "Pathogenicity",
+      "Immunogenicity",
+      "Infectivity",
+      "Infestation"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Ability of agent to produce specific immunity  refers to",
+    "options": [
+      "Immunogenicity",
+      "Pathogenicity",
+      "Infectivity",
+      "Virulence",
+      "Infestation"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In order to determine effect of student’s habits on academic performance, researchers conducted survey in ISM. They randomly picked a group of students and asked them to fill out form where students had to identify number of parties they attended and grades they got for the last week  What is the type of study?",
+    "options": [
+      "Case-control",
+      "Cohort study",
+      "Experimental",
+      "Cross-sectional",
+      "Ecological study"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In order to identify possible effect of genetically modified food on development of cancer researchers compared data on average consumption of genetically modified food and average cancer disease rate in two countries (India and Pakistan) What is the type of study?",
+    "options": [
+      "Cross-sectional",
+      "Cohort study",
+      "Case-control",
+      "Experimental",
+      "Ecological study"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Researchers recruited a group of participants with influenza (type A) who were prescribed antibiotics and who didn’t. The main research question was to identify the effect of antibiotics on immune system of participants. Researchers followed the participants for two weeks and then identified possible immune status of participants. What is the type of study?",
+    "options": [
+      "Cohort study",
+      "Case-control",
+      "Cross-sectional",
+      "Ecological study",
+      "Experimental"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Researchers enrolled two groups of participants with positive HIV status but different antiretroviral therapy regiment in order to establish effect of two types of therapy on development of renal diseases. Before the enrolment to the study all participants were tested– everyone was renal disease free. What is the type of study?",
+    "options": [
+      "Cohort study",
+      "Case-control",
+      "Cross-sectional",
+      "Ecological study",
+      "Experimental"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Residents of three villages with three different types of water supply were asked to participate in a study to identify cholera carriers. Because several cholera deaths had occurred in the recent past, virtually everyone occurred in the time submitted to examination. The proportion of carriers in each village who were carriers was computed and compared. The study is a:",
+    "options": [
+      "Cross-sectional",
+      "Case-control",
+      "Cohort study",
+      "Ecological study",
+      "Experimental"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "500 women aged 40 – 54 who present for routine check-ups are asked about their meat consumption. 20% of the women turn out to be vegetarian. During the ensuing 5 years, 5 vegetarians and 43 non-vegetarians develop colorectal cancer. Which of the following best describes the study design?",
+    "options": [
+      "Cohort study",
+      "Case-control",
+      "Cross-sectional",
+      "Ecological study",
+      "Experimental"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The measure of association used in a cohort study is:",
+    "options": [
+      "Relative Risk",
+      "Odds Ratio",
+      "Ecologic Correlation",
+      "Mortality Ratio",
+      "Mobility rate"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Suppose we want to know if exercise affects the risk of developing some disease.We collect data and find that 28% of people who exercise regularly develop this disease while 50% of people who do not exercise regularly develop this disease. In this scenario, we would calculate the relative risk as:",
+    "options": [
+      "Relative Risk = P(event in treatment group) / P(event in control group)",
+      "Relative Risk = P(event in treatment group)+ P(event in control group)",
+      "Relative Risk = P(event in treatment group)- P(event in control group)",
+      "Relative Risk = P(event in treatment group)= P(event in control group)",
+      "Relative Risk = P(event in treatment group)* P(event in control group)"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Suppose we want to know if exercise affects the risk of developing some disease. We collect data and find that 28% of people who exercise regularly develop this disease while 50% of people who do not exercise regularly develop this disease. In this scenario, we would calculate the relative risk as:",
+    "options": [
+      "Relative Risk = P(disease with exercise) + P(disease with no exercise)",
+      "Relative Risk = P(disease with exercise) / P(disease with no exercise)",
+      "Relative Risk = P(disease with exercise)- P(disease with no exercise",
+      "Relative Risk = P(disease with exercise) *P(disease with no exercise)",
+      "Relative Risk = P(disease with exercise)= P(disease with no exercise)"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Suppose we want to know if some new studying program affects the ability of students to pass a particular exam. We collect data and find that 40% of students who use the new studying program pass the exam while 40% of students who do not use the studying program also pass the exam. In this scenario, we would calculate the relative risk as:",
+    "options": [
+      "Relative Risk = P(event in treatment group) / P(event in control group)",
+      "Relative Risk = P(event in treatment group)+ P(event in control group)",
+      "Relative Risk = P(event in treatment group)- P(event in control group)",
+      "Relative Risk = P(event in treatment group)= P(event in control group)",
+      "Relative Risk = P(event in treatment group)* P(event in control group)"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The association between breast cancer and use calcium supplements was found to be as follows: The Odds ratio can be estimated as: (Look at the Att #1)",
+    "options": [
+      "75*75/25*25",
+      "75*25/25*25",
+      "25*25/75*75",
+      "75/75*25*25",
+      "75+75*25+25"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The association between coronary heart diseases and smoking was found to be as follows: The Odds ratio can be estimated as: (Look at the Att #1)",
+    "options": [
+      "80*50/70*40",
+      "80*70*40*50",
+      "80+70/40+50",
+      "80*40*70*50",
+      "80/50*70*40"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The association between Esophageal cancer and smoking was found to be as follows: The Odds ratio can be estimated as: (Look at the Att #1)",
+    "options": [
+      "100*80/100*60",
+      "100*80*100*60",
+      "100/100*60*80",
+      "100+100/60+80",
+      "100/100*60/80"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A longitudinal or prospective study is also referred to as an",
+    "options": [
+      "cohort study",
+      "cross-sectional study",
+      "ecological study",
+      "case-control study",
+      "Clinical trial"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Describe the disadvantages of the case control study",
+    "options": [
+      "the measurement of exposure may be inaccurate. Representativeness of cases and controls may be unknown and may provide indirect estimates of risk. The temporal relationship between exposure factor and outcome cannot always be determined.",
+      "A cohort is different because an entire cohort of exposed individuals is examined.",
+      "For an observational designed study, the observer does not have control over the exposure factor.",
+      "Refers to the difference between the odds of a disease in the exposed group and the incidence rate in the non-exposed group.",
+      "For an observational designed study, the observer does not have control over the exposure factor."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A study was carried out to find out association between natural childbirth and retinal disinsertion in myopia. The Risk Ratio  in this study is:",
+    "options": [
+      "(45/45+455)/(20/20+280)=",
+      "45*280/20*455=",
+      "45/500*20/280=",
+      "(45/500-45)/(20/300-20)=",
+      "45*20/455*280="
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A study was carried out to find out association between natural childbirth and retinal disinsertion in myopia. The Relative Risk  in this study is:",
+    "options": [
+      "(45/45+455)/(20/20+280)=",
+      "45*280/20*455=",
+      "45/500*20/280=",
+      "(45/500-45)/(20/300-20)=",
+      "45*20/455*280="
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A study was carried out to find out association between natural childbirth and retinal disinsertion in myopia. The Odd Ratio  in this study is:",
+    "options": [
+      "45*280/20*455=",
+      "(45/45+455)/(20/20+280)=",
+      "45/500*20/280=",
+      "(45/500-45)/(20/300-20)=",
+      "45*20/455*280="
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Suppose we want to know if some new studying program affects the ability of students to pass a particular exam. We collect data and find that 40% of students who use the new studying program pass the exam while 40% of students who do not use the studying program also pass the exam.In this scenario, we would calculate the relative risk as:",
+    "options": [
+      "Relative Risk = P(pass with new program) / P(pass without new program)",
+      "Relative Risk = P(pass with new program) + P(pass without new program)",
+      "Relative Risk = P(pass with new program) - P(pass without new program)",
+      "Relative Risk = P(pass with new program)* P(pass without new program",
+      "Relative Risk = P(pass with new program)= P(pass without new program)"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Suppose we want to know if smoking affects the risk of developing lung cancer. We collect data and find that 70% of people who smoke develop lung cancer while 5% of people who do not smoke develop lung cancer. In this scenario, we would calculate the relative risk as:",
+    "options": [
+      "Relative Risk = P(event in treatment group) / P(event in control group)",
+      "Relative Risk = P(event in treatment group)+ P(event in control group)",
+      "Relative Risk = P(event in treatment group)- P(event in control group)",
+      "Relative Risk = P(event in treatment group)= P(event in control group)",
+      "Relative Risk = P(event in treatment group)* P(event in control group)"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Suppose we want to know if smoking affects the risk of developing lung cancer. We collect data and find that 70% of people who smoke develop lung cancer while 5% of people who do not smoke develop lung cancerIn this scenario, we would calculate the relative risk as:",
+    "options": [
+      "Relative Risk = P(lung cancer with smoking) / P(lung cancer without smoking",
+      "Relative Risk = P(lung cancer with smoking)- P(lung cancer without smoking)",
+      "Relative Risk = P(lung cancer with smoking)+ P(lung cancer without smoking",
+      "Relative Risk = P(lung cancer with smoking) = P(lung cancer without smoki",
+      "Relative Risk = P(lung cancer with smoking) *P(lung cancer without smo"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Priority areas of application of epidemiological case-control studies are:",
+    "options": [
+      "Rare causes of disease",
+      "Rare diseases and one consequence of different causes",
+      "Different effects of one cause",
+      "Possible expected outcome",
+      "Chronic disease"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A key feature of a cross-sectional study is that:",
+    "options": [
+      "It usually provides information on prevalence rather than incidence",
+      "It is limited to health exposures and behaviors rather than health outcomes",
+      "It is more useful for analytic epidemiology than it is for descriptive epidemiology",
+      "It is synonymous with cluster",
+      "neither above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Researchers conduct analytical study of pancreatic cancer. The study included 200 cases and 200 controls. Of the cases, 80% reported they smoked cigarettes. Among the controls, 50% reported they smoked cigarettes.What is the measure of association that you will use?",
+    "options": [
+      "OR",
+      "RR",
+      "Percentage",
+      "Proportion",
+      "Rate"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A study with a randomly selected control group and the presence of exposure on the part of the researcher is called:",
+    "options": [
+      "Randomized controlled clinical trial",
+      "Non-randomized trial",
+      "Observational study",
+      "Retrospective study",
+      "Cohort study"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The concept of \"gold standard\" includes",
+    "options": [
+      "Double-blind placebo-controlled randomized trials",
+      "Simple non-randomized studies",
+      "Triple blind studies",
+      "Double-blind non-randomized trials",
+      "Field trial"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A study in which patients are randomly assigned to groups is called:",
+    "options": [
+      "Randomized",
+      "Non-randomized",
+      "Placebo-controlled",
+      "Single-blind",
+      "Stratified"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Researchers recruited 100 HIV positive participants, 50 of them strictly followed antiretroviral regimen and other 50 did not, researchers followed the participants for 5 years in order to identify effect of “strictly follow the regimen” and development of AIDS\nResults of interview: The prevalence of AIDS among participants was 10%. Out of all participants who had AIDS 5 strictly followed the regimen.\nWhat is the outcome in the study?",
+    "options": [
+      "AIDS",
+      "HIV",
+      "Followed antiretroviral regimen",
+      "Did not follow antiretroviral regimen",
+      "Antiretroviral therapy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Researchers recruited 100 HIV positive participants, 50 of them strictly followed antiretroviral regimen and other 50 did not, researchers followed the participants for 5 years in order to identify effect of “strictly follow the regimen” and development of AIDS\nResults of interview: The prevalence of AIDS among participants was 10%. Out of all participants who had AIDS 5 strictly followed the regimen.\nWhat is the type of study?",
+    "options": [
+      "Cohort",
+      "Case-control",
+      "Cross-Sectional",
+      "Clinical trial",
+      "Ecological"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Researchers recruited 100 HIV positive participants, 50 of them strictly followed antiretroviral regimen and other 50 did not, researchers followed the participants for 5 years in order to identify effect of “strictly follow the regimen” and development of AIDS\nResults of interview: The prevalence of AIDS among participants was 10%. Out of all participants who had AIDS 5 strictly followed the regimen.\nWhat is the measure of association that you will use?",
+    "options": [
+      "RR",
+      "OR",
+      "Percentage",
+      "Proportion",
+      "Attributable risk"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Researchers recruited 100 HIV positive participants, 50 of them strictly followed antiretroviral regimen and other 50 did not, researchers followed the participants for 5 years in order to identify effect of “strictly follow the regimen” and development of AIDS\nResults of interview: The prevalence of AIDS among participants was 10%. Out of all participants who had AIDS 5 strictly followed the regimen.\nFill out two by two table",
+    "options": [
+      "A, B,C,D= 5, 45, 5, 45",
+      "A, B,C,D= 5, 5, 45, 45",
+      "A, B,C,D= 45, 45, 5, 5",
+      "A, B,C,D= 5, 45, 5, 90"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Researchers recruited 100 HIV positive participants, 50 of them strictly followed antiretroviral regimen and other 50 did not, researchers followed the participants for 5 years in order to identify effect of “strictly follow the regimen” and development of AIDS\nResults of interview: The prevalence of AIDS among participants was 10%. Out of all participants who had AIDS 5 strictly followed the regimen.\nProvide proportion for calculation the association based on the numbers in the table",
+    "options": [
+      "5/5+45  /  5/5+45",
+      "5*45  /  5*45",
+      "5/50  / 45/ 100",
+      "5*50 / 45*10",
+      "5+50  /  45+10"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Researchers recruited 100 participants with CVD. 50 strictly followed the prescriptions of statins (HMG-CoA reductase inhibitors) and 50 took statins time to times. The main goal of the study was to identify effect of statins on development of stroke. Scientists followed participants for 2 years and identified how many developed stroke\nResults of medical cards review: 10% of participants developed a stroke. Out of all participants who developed stroke 6 took statins regularly.\nWhat is the exposure in the study?",
+    "options": [
+      "Strictly followed prescription",
+      "Statins",
+      "Other disorders",
+      "CVD",
+      "Stroke"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Researchers recruited 100 participants with CVD. 50 strictly followed the prescriptions of statins (HMG-CoA reductase inhibitors) and 50 took statins time to times. The main goal of the study was to identify effect of statins on development of stroke. Scientists followed participants for 2 years and identified how many developed stroke\nResults of medical cards review: 10% of participants developed a stroke. Out of all participants who developed stroke 6 took statins regularly.\nWhat is the outcome in the study?",
+    "options": [
+      "Stroke",
+      "Statins",
+      "Other disorders",
+      "CVD",
+      "Strictly followed prescription"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Researchers recruited 100 participants with CVD. 50 strictly followed the prescriptions of statins (HMG-CoA reductase inhibitors) and 50 took statins time to times. The main goal of the study was to identify effect of statins on development of stroke. Scientists followed participants for 2 years and identified how many developed stroke\nResults of medical cards review: 10% of participants developed a stroke. Out of all participants who developed stroke 6 took statins regularly.\nWhat is the type of study?",
+    "options": [
+      "Cohort",
+      "Case-control",
+      "Cross-Sectional",
+      "Clinical trial",
+      "Ecological"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Researchers recruited 100 participants with CVD. 50 strictly followed the prescriptions of statins (HMG-CoA reductase inhibitors) and 50 took statins time to times. The main goal of the study was to identify effect of statins on development of stroke. Scientists followed participants for 2 years and identified how many developed stroke\nResults of medical cards review: 10% of participants developed a stroke. Out of all participants who developed stroke 6 took statins regularly.\nWhat is the measure of association that you will use?",
+    "options": [
+      "RR",
+      "OR",
+      "Percentage",
+      "Proportion",
+      "Attributable risk"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Researchers recruited 100 participants with CVD. 50 strictly followed the prescriptions of statins (HMG-CoA reductase inhibitors) and 50 took statins time to times. The main goal of the study was to identify effect of statins on development of stroke. Scientists followed participants for 2 years and identified how many developed stroke\nResults of medical cards review: 10% of participants developed a stroke. Out of all participants who developed stroke 6 took statins regularly.\nProvide proportion for calculation the association based on the numbers in the table",
+    "options": [
+      "6/44+6 / 4/4+46",
+      "4*46 /  6*44",
+      "6*46 /  4*44",
+      "50 /  4*44",
+      "6/44+6 / 4/4+46"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Researchers interviewed 200 patients and identified 100 participants with positive alcohol drinking status and 100 who did not drink, in order to examine effect of alcohol consumptions on development of diabetes. Scientists followed participants for 5 years.\nResults of interview: The prevalence of diabetes among participants was 10%. Out of all participants who got diabetes 18 had consumed alcohol.\nWhat is the exposure in the study?",
+    "options": [
+      "Alcohol consumption",
+      "Diabetes",
+      "Other disorders",
+      "Non drinkers",
+      "CVD"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Researchers interviewed 200 patients and identified 100 participants with positive alcohol drinking status and 100 who did not drink, in order to examine effect of alcohol consumptions on development of diabetes. Scientists followed participants for 5 years.\nResults of interview: The prevalence of diabetes among participants was 10%. Out of all participants who got diabetes 18 had consumed alcohol.\nWhat is the outcome in the study?",
+    "options": [
+      "Diabetes",
+      "Alcohol consumption",
+      "Other disorders",
+      "Non drinkers",
+      "CVD"
+    ],
+    "answer": 0
+  }
+]
